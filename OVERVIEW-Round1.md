@@ -2,6 +2,8 @@
 
 This the log of my #100DaysOfCode challenge. Started on **January 1, 2024**.
 
+A more detailed log can be found [here](round1-log.md). 
+
 ## Log
 
 ### R1D1 
