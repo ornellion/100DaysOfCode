@@ -33,3 +33,8 @@ Started Responsive Web Design on freeCodeCamp. Progress on Building a Cat Photo 
 Completed an introduction to Software Engineering & started the Fundamentals of HTML.
 
 Completed the Building a Cat Photo app course. Starting on Learning Basic CSS. 
+
+### R1D8 
+Completed the Introduction to HTML. Progress on Building a Cafe Menu 52/91. 
+
+Solved my first Leetcode problem 2235. Add Two Integers.
