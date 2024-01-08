@@ -128,3 +128,18 @@ Also created my own GitHub repository to track my 100 Days of Code journey.
 Learning HTML & CSS feels liike coming home to an old friend. 
 
 I'm glad that I'm using two different resources. I feel like Codecademy covers my need to have a deeper understanding about why certain elements are used whereas freeCodeCamp provides a more practical application of the knowledge. 
+
+---
+
+### Day 8: January 8, 2024
+
+**Today's Progress**: 
+
+- Codecademy: Completed an Introduction to HTML Elements. 
+- freeCodeCamp: Progressed on *Building a Cafe Menu*
+- Solved my first LeetCode problem: 2235. Add Two Integers 
+
+**Thoughts**:
+On days that I'm working I often feel short-changed as I only have limited time to study and also start to get to grips with things that adjacent to coding. Like LeetCode. It's one of those things that I've always thought I'd have to wait months to get to the point of even solving. 
+
+Thanks to my basic knowledge of Python I have a language to start getting to grips with the problems, and eventually move onto JavaScript and SQL challenges. I was inspired by a TikToker who said they did a problem every day for 3 months from zero knowledge and so asked myself: how hard can it be to just start? 
