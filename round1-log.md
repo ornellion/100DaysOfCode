@@ -143,3 +143,15 @@ I'm glad that I'm using two different resources. I feel like Codecademy covers m
 On days that I'm working I often feel short-changed as I only have limited time to study and also start to get to grips with things that adjacent to coding. Like LeetCode. It's one of those things that I've always thought I'd have to wait months to get to the point of even solving. 
 
 Thanks to my basic knowledge of Python I have a language to start getting to grips with the problems, and eventually move onto JavaScript and SQL challenges. I was inspired by a TikToker who said they did a problem every day for 3 months from zero knowledge and so asked myself: how hard can it be to just start? 
+
+---
+
+### Day 9: January 9, 2024
+
+**Today's Progress**: 
+- Codecademy: Started learning HTML Document Standards
+- freeCodeCamp: Completed *Learn Basic CSS by Building a Cafe Menu*.
+- Started *Learn CSS Colors by Building a Set of Colored Markers* course 
+
+**Thoughts**:
+Studying was harder today than it has been so far so I focused on the freeCodeCamp classes as they're a little more prractical. Learning to show up even when I don't have the energy for it. 
