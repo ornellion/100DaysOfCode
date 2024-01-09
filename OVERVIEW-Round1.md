@@ -38,3 +38,8 @@ Completed the Building a Cat Photo app course. Starting on Learning Basic CSS.
 Completed the Introduction to HTML. Progress on Building a Cafe Menu 52/91. 
 
 Solved my first Leetcode problem 2235. Add Two Integers.
+
+### R1D9
+Started HTML Document Standards. Completed Building a Cafe Menu.
+
+Started Learn CSS Colors by Building a Set of Colored Markers 35/84.
