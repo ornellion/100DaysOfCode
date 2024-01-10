@@ -43,3 +43,8 @@ Solved my first Leetcode problem 2235. Add Two Integers.
 Started HTML Document Standards. Completed Building a Cafe Menu.
 
 Started Learn CSS Colors by Building a Set of Colored Markers 35/84.
+
+### R1D10 
+Completed HTML Document Standards. Introduction to MDN and debugging HTML.
+
+Progress on Building a set of Colored Markers 64/94. 
