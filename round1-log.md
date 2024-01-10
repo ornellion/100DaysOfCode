@@ -155,3 +155,15 @@ Thanks to my basic knowledge of Python I have a language to start getting to gri
 
 **Thoughts**:
 Studying was harder today than it has been so far so I focused on the freeCodeCamp classes as they're a little more prractical. Learning to show up even when I don't have the energy for it. 
+
+---
+### Day 10: January 10, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed HTML Document standards. Intro to MDN and debugging HTML.
+- freeCodeCamp: Made progress wih *Building a Set of Colored Markers* 
+
+**Thoughts**:
+Appreciating the into to MDN and how to debug from the beginning. The higher-level explanations of the Codecademy course are also helpful - for example, understanding that whitespace and indentation are used to make the code readable but the actual position of the elements in a browser are independent. 
+
+I also did not expect the in-depth information how colours work with the CSS Colors course. It's the first time I've understood the RGB model, as well as HSL and gradients. Up until now I've relied on copy&pasting the hex colours that I liked. 
