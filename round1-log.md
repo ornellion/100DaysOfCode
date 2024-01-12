@@ -2,9 +2,11 @@
 <!--
 Inspired by the original repo that I forked. I created my own so that the contribution could be counted.
 
-### Day [X]:
+### Day [X]: January X, 2024
 
 **Today's Progress**: 
+- Codecademy:
+- freeCodeCamp:
 
 **Thoughts**:
 
@@ -180,3 +182,20 @@ I also did not expect the in-depth information how colours work with the CSS Col
 
 **Thoughts**:
 I'm very tired but glad I still woke up and made time to study before work. The foundations are coming together. 
+
+---
+
+### Day 12: January 12, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed HTML Tables, quiz & associated Wine Festival Schedule project
+- freeCodeCamp: Continued with *Building a Registration Form*
+
+**Thoughts**:
+As the bigger, less-guided projects draw closer I'm worried if I'll be able to actually build them or if I'll repeat the pattern of being overwhelmed by the learning curve. I didn't really understand what was meant by "Tutorial Hell" until I realised it meant being stuck in the cycle of only being able to complete projects when following step-by-step guides but not being able to build anything independently. I don't want to be stuck there.  
+
+I'm keeping a list of small projects that I want to complete before moving to the next chapter. One thing I've seen self-taught developers regret not spending time on doing is making sure they have a solid foundation. I want to make sure I feel confident in the basics rather than being hit with Imposter Syndrome as complexity increases.
+
+I've also hit the wall where I feel like I'm not making much progress and have *so* far to go. But I also need to appreciate how far I *have* come. In the Full-Stack Engineering path alone, in the space of 1/Week I have completed 1/50 Units, 19% of Web Development Foundations (first unit out of 6) and already complete 73% of The Fundamentals of HTML. And that's alongside the freeCodeCamp curriculum and dabbling in Leetcode. 
+
+I need to give myself grace and time to enjoy the journey. It's a marathon, not a sprint. 
