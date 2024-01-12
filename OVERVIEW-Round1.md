@@ -52,4 +52,7 @@ Progress on Building a set of Colored Markers 64/94.
 ### R1D11 
 Started learning about HTML tables. Finished Learn CSS by Buildig a Set of Marker. 
 
-Started Learn HTML forms by Building a Registration From 15/65.
+Started Learn HTML forms by Building a Registration Form 15/65.
+
+###
+Completed HTML tables + associated quiz and project. Building a Registration Form Progress: 40/65. 
