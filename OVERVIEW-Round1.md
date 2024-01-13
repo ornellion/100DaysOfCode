@@ -55,4 +55,9 @@ Started learning about HTML tables. Finished Learn CSS by Buildig a Set of Marke
 Started Learn HTML forms by Building a Registration Form 15/65.
 
 ### R1D12
-Completed HTML tables + associated quiz and project. Building a Registration Form Progress: 40/65. 
+Completed HTML tables + associated quiz and project. Building a Registration Form Progress: 40/65.
+
+### R1D13 
+Completed Foundations of HTML & Building a Registration Form. 
+
+Started planning to recreate smaller projects before jumping into the Certification Project. 
