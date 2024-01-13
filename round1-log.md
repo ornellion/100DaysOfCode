@@ -199,3 +199,18 @@ I'm keeping a list of small projects that I want to complete before moving to th
 I've also hit the wall where I feel like I'm not making much progress and have *so* far to go. But I also need to appreciate how far I *have* come. In the Full-Stack Engineering path alone, in the space of 1/Week I have completed 1/50 Units, 19% of Web Development Foundations (first unit out of 6) and already complete 73% of The Fundamentals of HTML. And that's alongside the freeCodeCamp curriculum and dabbling in Leetcode. 
 
 I need to give myself grace and time to enjoy the journey. It's a marathon, not a sprint. 
+
+---
+
+### Day 13: January 13, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed Semantic HTML and associated New York City Blog Project
+- Completed the Fundamentals of HTML 
+- freeCodeCamp: Completed *Building a Registration Form* Course.
+- Took a look at the Certification Project: Survey Form 
+
+**Thoughts**:
+It's already independent project time?? I swear I only started yesterday. Before I dive into the freeCodeCamp Certification project I'm going to take the time to recreate the smaller projects to get acquainted with how to use IDEs (I think my choice is going to be VSCode) and display the projects. 
+
+I think for smaller projects I'll use CodePen and then for the certification/portfolio projects I'll use GitHub Pages. I guess we'll see! I'm both nervous and excited to get out of tutorials and into projects. 
