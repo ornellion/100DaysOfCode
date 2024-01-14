@@ -61,3 +61,6 @@ Completed HTML tables + associated quiz and project. Building a Registration For
 Completed Foundations of HTML & Building a Registration Form. 
 
 Started planning to recreate smaller projects before jumping into the Certification Project. 
+
+### R1D14 
+Started Foundations of CSS. Started coding the [Film Photo App](https://codepen.io/ornellion/pen/Rwdodbp). 
