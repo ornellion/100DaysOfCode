@@ -214,3 +214,21 @@ I need to give myself grace and time to enjoy the journey. It's a marathon, not 
 It's already independent project time?? I swear I only started yesterday. Before I dive into the freeCodeCamp Certification project I'm going to take the time to recreate the smaller projects to get acquainted with how to use IDEs (I think my choice is going to be VSCode) and display the projects. 
 
 I think for smaller projects I'll use CodePen and then for the certification/portfolio projects I'll use GitHub Pages. I guess we'll see! I'm both nervous and excited to get out of tutorials and into projects. 
+
+---
+
+### Day 14: January 14, 2024
+
+**Today's Progress**: 
+- Codecademy: Started the Fundamentals of CSS. Completed Setup and Syntax 
+- Started on recreating the projects encountered so far
+- Currently building a simple **Film Photo App** page 
+
+**Thoughts**:
+I really appreciate the more in-depth higher level knowledge I gain from also using Codecademy as a source. For example, even if using inline styles and internal stylesheets for CSS is not common practice, it's good to know that it's an option. 
+
+I started recreating the first thing that I built on freeCodeCamp. While it is simple, by recreating it I have the chance to review why certain elements and attributes are used over others. And given that I also now I have CSS knowledge I didn't when I first started I can also make it visually appealing! 
+
+I started on Codepen as the IDE allows you to visualise as you code and it's very beginner-friendly. I do eventually want to use VSCode but I wanted to start where I feel most comfortable. 
+
+**Link to work:** [Film Photo App](https://codepen.io/ornellion/pen/Rwdodbp)
