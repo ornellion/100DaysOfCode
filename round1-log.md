@@ -232,3 +232,20 @@ I started recreating the first thing that I built on freeCodeCamp. While it is s
 I started on Codepen as the IDE allows you to visualise as you code and it's very beginner-friendly. I do eventually want to use VSCode but I wanted to start where I feel most comfortable. 
 
 **Link to work:** [Film Photo App](https://codepen.io/ornellion/pen/Rwdodbp)
+
+---
+
+### Day 15: January 15, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued with the Fundamentals of CSS. Learning about Selectors.
+- Completed the HTML for my **Film Photo App** recreation 
+
+**Thoughts**:
+It is a simple HTML project but in recreating it myself I'm learning so much. For example, why the person who creates the web content isn't also the web developer. I think I've spent most of the past two days coming up with content. It's also the fun part. 
+
+I'm tempted to add the CSS right away but I think I'm going to revise the CSS concepts first. Then mock-up what I want the final product to be based on the CSS I do know. And *then* from the create final products. 
+
+I just need more hours in the day at this point. 
+
+**Link to work:** [Film Photo App](https://codepen.io/ornellion/pen/Rwdodbp)
