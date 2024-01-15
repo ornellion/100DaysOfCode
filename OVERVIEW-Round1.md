@@ -64,3 +64,6 @@ Started planning to recreate smaller projects before jumping into the Certificat
 
 ### R1D14 
 Started Foundations of CSS. Started coding the [Film Photo App](https://codepen.io/ornellion/pen/Rwdodbp). 
+
+### R1D15 
+Continued Foundations of CSS - Selectors. Completed the HTML for [Film Photo App](https://codepen.io/ornellion/pen/Rwdodbp).
