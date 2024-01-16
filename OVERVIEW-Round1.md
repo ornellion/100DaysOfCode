@@ -67,3 +67,6 @@ Started Foundations of CSS. Started coding the [Film Photo App](https://codepen.
 
 ### R1D15 
 Continued Foundations of CSS - Selectors. Completed the HTML for [Film Photo App](https://codepen.io/ornellion/pen/Rwdodbp).
+
+### R1D16 
+Completed Foundations of CSS - Selectors & quiz. Started on the HTML for [Madam Puddifoot's Tea Shop Menu](https://codepen.io/ornellion/pen/LYaxgBK).
