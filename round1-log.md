@@ -249,3 +249,18 @@ I'm tempted to add the CSS right away but I think I'm going to revise the CSS co
 I just need more hours in the day at this point. 
 
 **Link to work:** [Film Photo App](https://codepen.io/ornellion/pen/Rwdodbp)
+
+---
+
+### Day 16: January 16, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed CSS Selectors & quiz. 
+- Started on my recreation of a Cafe Menu - theme: Madam Puddifoot's Tea Shop (a fictional tea shop from the Harry Potter Universe)
+
+**Thoughts**:
+I like the word specificity. I remember the last time I tried to complete the freeCodeCamp program I just gave everything a class and an ID not really knowing what I was doing. 
+
+Really lamenting the fact that I don't have all day to sit and code. I'm really enjoying breaking down what I learned and figuring out how I can apply it myself moving forward. I think that's been my favourite progressing over the last two weeks - I'm enjoying myself! 
+
+**Link to work:** [Madam Puddifoot's Tea Shop Menu](https://codepen.io/ornellion/pen/LYaxgBK)
