@@ -264,3 +264,19 @@ I like the word specificity. I remember the last time I tried to complete the fr
 Really lamenting the fact that I don't have all day to sit and code. I'm really enjoying breaking down what I learned and figuring out how I can apply it myself moving forward. I think that's been my favourite progressing over the last two weeks - I'm enjoying myself! 
 
 **Link to work:** [Madam Puddifoot's Tea Shop Menu](https://codepen.io/ornellion/pen/LYaxgBK)
+
+---
+
+### Day 17: January 17, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed Visual Rules & quiz
+- Completed the HTML structure for Madam Puddifoot's Tea Shop Menu
+- Started working on the final visual in Figma 
+
+**Thoughts**:
+I've got a cold so I'm proud that I still considered coding today a priority. I do need rest but if I have time to scroll on socials, I have an hour to spare to code. 
+
+Started using Figma to create the final look of the site. I'm using Figma because I know it's an industry design tool but depending on how I get on I might switch to Procreate as I'm much more familiar with that. Canva is also an option I suppose. The goal is to be able to be able to use CSS to create a final product rather than being limited by what I *think* I'm able to do with my current level of CSS. 
+
+**Link to work:** [Madam Puddifoot's Tea Shop Menu](https://codepen.io/ornellion/pen/LYaxgBK)
