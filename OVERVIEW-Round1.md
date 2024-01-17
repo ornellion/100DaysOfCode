@@ -58,15 +58,18 @@ Started Learn HTML forms by Building a Registration Form 15/65.
 Completed HTML tables + associated quiz and project. Building a Registration Form Progress: 40/65.
 
 ### R1D13 
-Completed Foundations of HTML & Building a Registration Form. 
+Completed Fundamentals of HTML & Building a Registration Form. 
 
 Started planning to recreate smaller projects before jumping into the Certification Project. 
 
 ### R1D14 
-Started Foundations of CSS. Started coding the [Film Photo App](https://codepen.io/ornellion/pen/Rwdodbp). 
+Started Fundamentals of CSS. Started coding the [Film Photo App](https://codepen.io/ornellion/pen/Rwdodbp). 
 
 ### R1D15 
-Continued Foundations of CSS - Selectors. Completed the HTML for [Film Photo App](https://codepen.io/ornellion/pen/Rwdodbp).
+Continued Fundamentals of CSS - Selectors. Completed the HTML for [Film Photo App](https://codepen.io/ornellion/pen/Rwdodbp).
 
 ### R1D16 
-Completed Foundations of CSS - Selectors & quiz. Started on the HTML for [Madam Puddifoot's Tea Shop Menu](https://codepen.io/ornellion/pen/LYaxgBK).
+Completed Fundamentals of CSS - Selectors & quiz. Started on the HTML for [Madam Puddifoot's Tea Shop Menu](https://codepen.io/ornellion/pen/LYaxgBK).
+
+### R1D17
+Completed Fundamentals of CSS - Visual Rules & Quiz. Completed HTML for [Madam Puddifoot's Tea Shop Menu](https://codepen.io/ornellion/pen/LYaxgBK). Started designing the visual in Figma. 
