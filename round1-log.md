@@ -280,3 +280,16 @@ I've got a cold so I'm proud that I still considered coding today a priority. I 
 Started using Figma to create the final look of the site. I'm using Figma because I know it's an industry design tool but depending on how I get on I might switch to Procreate as I'm much more familiar with that. Canva is also an option I suppose. The goal is to be able to be able to use CSS to create a final product rather than being limited by what I *think* I'm able to do with my current level of CSS. 
 
 **Link to work:** [Madam Puddifoot's Tea Shop Menu](https://codepen.io/ornellion/pen/LYaxgBK)
+
+---
+
+### Day 18: January 18, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed Healthy Recipes & Olivia Woodruff Portfolio related to Visual Rules
+- Continued working on the design for Madam Puddifoot's Tea Shop Menu in Figma 
+
+**Thoughts**:
+Actual props to designers because this is not as easy as it looks! I have all the components down and I used an image from the film to create a colour palette but it's currently...a garish mess. I'm definitely going to have to sit through a Figma tutorial at some point. 
+
+I feel a little bit of dread as I start learning about the Box Model. I know it was one of those things that had me a little stumped when I first tried to learn CSS. I really hope that working on different projects as well as different resources will make it easier than it was before. 
