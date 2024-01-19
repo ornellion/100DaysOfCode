@@ -75,4 +75,7 @@ Completed Fundamentals of CSS - Selectors & quiz. Started on the HTML for [Madam
 Completed Fundamentals of CSS - Visual Rules & Quiz. Completed HTML for [Madam Puddifoot's Tea Shop Menu](https://codepen.io/ornellion/pen/LYaxgBK). Started designing the visual in Figma. 
 
 ### R1D18 
-Completed projects related to Visual Rules module. Started learning about The Box Model. Continued working on the design for Madam Puddifoot's Tea Shop Menu in Figma (elements and colour palette), 
+Completed projects related to Visual Rules module. Started learning about The Box Model. Continued working on the design for Madam Puddifoot's Tea Shop Menu in Figma (elements and colour palette). 
+
+### R1D19 
+Continued learning about CSS Box Model. Finished my design mock up and started coding the CSS for [Madam Puddifoot's Tea Shop Menu](https://codepen.io/ornellion/pen/LYaxgBK).
