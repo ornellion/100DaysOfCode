@@ -287,9 +287,30 @@ Started using Figma to create the final look of the site. I'm using Figma becaus
 
 **Today's Progress**: 
 - Codecademy: Completed Healthy Recipes & Olivia Woodruff Portfolio related to Visual Rules
+- Started studying The Box Model 
 - Continued working on the design for Madam Puddifoot's Tea Shop Menu in Figma 
 
 **Thoughts**:
 Actual props to designers because this is not as easy as it looks! I have all the components down and I used an image from the film to create a colour palette but it's currently...a garish mess. I'm definitely going to have to sit through a Figma tutorial at some point. 
 
 I feel a little bit of dread as I start learning about the Box Model. I know it was one of those things that had me a little stumped when I first tried to learn CSS. I really hope that working on different projects as well as different resources will make it easier than it was before. 
+
+---
+
+### Day 19: January 19, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued learning about The Box Model 
+- Completed my design for the Tea Shop Menu in Figma
+- Started to work on the CSS of bringing it to life 
+
+**Thoughts**:
+The Codecademy explanation of The Box Model has actually helped close gaps that I had in my knowledge such as padding and margin shorthand. The regular referral to MDN Documentation means that I'm also learning to refer to it as a resource if I'm confused about anything. 
+
+I had to stop trying to play around with the design of the Madam Puddifoot's Tea Shop Menu once I had the basic components down. My designs will get fancier and more sophisticated as I go but for now I want to focus on the basic flow of HTML -> Design -> execute using CSS to match up as closely as possible. 
+
+![Screenshot 2024-01-19 at 09 09 03](https://github.com/ornellion/100DaysOfCode/assets/155359289/b9249476-1f8f-4a60-9aba-132fd66e6a27)
+
+I'm excited to see how the final product will compare to what I mocked up. 
+
+**Link to work:** [Madam Puddifoot's Tea Shop Menu](https://codepen.io/ornellion/pen/LYaxgBK)
