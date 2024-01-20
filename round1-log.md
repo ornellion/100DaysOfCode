@@ -314,3 +314,27 @@ I had to stop trying to play around with the design of the Madam Puddifoot's Tea
 I'm excited to see how the final product will compare to what I mocked up. 
 
 **Link to work:** [Madam Puddifoot's Tea Shop Menu](https://codepen.io/ornellion/pen/LYaxgBK)
+
+---
+
+### Day 20: January 20, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed section on Box Model, including how to use Chrome DevTools
+- Started Learning about CSS Positioning 
+- Finished my Madam Puddifoot's Tea Shop Menu Project! I took some creative liberties
+- Downloaded Github Desktop, created a repository for GitHub Pages
+- Created my first repository for a project 
+
+**Thoughts**:
+I enjoy having more time to code on my days off! I was itching to get through the more theoretical aspects of CSS (it can feel like a lot sometimes with Codecademy) and carry on with my project! 
+
+It's only small but I'm proud of how much I've learned from taking the time to recreate a project. I've gotten to use Figma, Canva, Github & Github desktop. I'm also much more comfortable using developer resources like MDN Docummentation and W3Schools than I was before.
+
+Here is the final product: 
+
+![Screenshot 2024-01-20 at 22 12 46](https://github.com/ornellion/100DaysOfCode/assets/155359289/e568bff0-7212-413e-9eb8-770908c7f3e8)
+
+I definitely took some creative liberties but I like that it captures the main elements of how I initially designed it and isn't an *exact* copy of the project. (But apparently I had to keep the glaring typos!) 
+
+**Link to work:** [Tea Shop Menu GitHub Repository](https://github.com/ornellion/madam-puddifoots-cafe-menu)
