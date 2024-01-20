@@ -79,3 +79,6 @@ Completed projects related to Visual Rules module. Started learning about The Bo
 
 ### R1D19 
 Continued learning about CSS Box Model. Finished my design mock up and started coding the CSS for [Madam Puddifoot's Tea Shop Menu](https://codepen.io/ornellion/pen/LYaxgBK).
+
+### R1D20 
+Completed CSS Box Model section. Started learning about CSS Positioning. Finished the Tea Shop Menu and created my first project repository on GitHub: [Tea Shop Menu](https://github.com/ornellion/madam-puddifoots-cafe-menu)
