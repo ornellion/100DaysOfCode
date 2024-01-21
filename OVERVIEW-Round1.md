@@ -82,3 +82,6 @@ Continued learning about CSS Box Model. Finished my design mock up and started c
 
 ### R1D20 
 Completed CSS Box Model section. Started learning about CSS Positioning. Finished the Tea Shop Menu and created my first project repository on GitHub: [Tea Shop Menu](https://github.com/ornellion/madam-puddifoots-cafe-menu)
+
+### R1D21 
+Completed Fundamentals of CSS. Started Intro to Developing Websites locally. Started working on my creation **Learn CSS by Building a Set of Colored Markers** from freeCodeCamp.
