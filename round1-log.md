@@ -338,3 +338,18 @@ Here is the final product:
 I definitely took some creative liberties but I like that it captures the main elements of how I initially designed it and isn't an *exact* copy of the project. (But apparently I had to keep the glaring typos!) 
 
 **Link to work:** [Tea Shop Menu GitHub Repository](https://github.com/ornellion/madam-puddifoots-cafe-menu)
+
+---
+
+### Day 21: January 21, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed Fundamentals of CSS. Started Intro to Developing Websites locally 
+- Started working on my creation **Learn CSS by Building a Set of Colored Markers** from freeCodeCamp
+
+**Thoughts**:
+I'm happy with the progress that I'm making on Codecademy. Where some of the concepts are a little too high-level and I'm not too sure how they come together I'm comforted knowing I've already started putting things into practice. I really like that the next unit will cover using VS Code, which I already have downloaded (from trying to use Python Notebooks). 
+
+I also started working on my Building a Set of Colored Markers recreation. The idea is that I want to create a set of markers that show a set of different colour ways for the RGB model: primary, secondary, tertiary + complementary, monochromatic, analogous, triadic and tetradic. This means first learning about the models and having a solid enough foundation to translate them into CSS code. 
+
+An hour of research and I barely did any coding hehe. 
