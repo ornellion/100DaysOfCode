@@ -353,3 +353,18 @@ I'm happy with the progress that I'm making on Codecademy. Where some of the con
 I also started working on my Building a Set of Colored Markers recreation. The idea is that I want to create a set of markers that show a set of different colour ways for the RGB model: primary, secondary, tertiary + complementary, monochromatic, analogous, triadic and tetradic. This means first learning about the models and having a solid enough foundation to translate them into CSS code. 
 
 An hour of research and I barely did any coding hehe. 
+
+---
+
+### Day 22: January 22, 2024
+
+**Today's Progress**: 
+- Codecademy: Started building projects locally with VS Code 
+- Started working on the code for my **RGB Colour Theory Markers** project
+
+**Thoughts**:
+I wish I had all the time in the world to work on coding. A minimum of an hour a day is better than nothing. I now know more about VS Code than I did before. I'm well on my way to have a pink theme with widgets in the corner like I see all the cool programmers doing it. 
+
+I'm going through the Codecademy lesson again as I feel like there are some concepts that have sieved through my brain. I feel like in the long run having a strong grasp on how to use colour in my work will pay off. 
+
+**Link to work:** [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp)
