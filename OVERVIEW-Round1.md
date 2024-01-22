@@ -85,3 +85,6 @@ Completed CSS Box Model section. Started learning about CSS Positioning. Finishe
 
 ### R1D21 
 Completed Fundamentals of CSS. Started Intro to Developing Websites locally. Started working on my creation **Learn CSS by Building a Set of Colored Markers** from freeCodeCamp.
+
+### R1D22 
+Started video walkthrough on using VSCode to build sites locally using HTML and CSS. Started working on code for my [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp) project.
