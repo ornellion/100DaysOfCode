@@ -88,3 +88,6 @@ Completed Fundamentals of CSS. Started Intro to Developing Websites locally. Sta
 
 ### R1D22 
 Started video walkthrough on using VSCode to build sites locally using HTML and CSS. Started working on code for my [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp) project.
+
+### R1D23 
+Continuedvideo walkthrough on using VSCode to build sites locally using HTML and CSS. Continued working on code for my [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp) project.
