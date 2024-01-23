@@ -368,3 +368,17 @@ I wish I had all the time in the world to work on coding. A minimum of an hour a
 I'm going through the Codecademy lesson again as I feel like there are some concepts that have sieved through my brain. I feel like in the long run having a strong grasp on how to use colour in my work will pay off. 
 
 **Link to work:** [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp)
+
+---
+
+### Day 23: January 23, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued creating my first local project using VSCode
+- Continued working on the code for my **RGB Colour Theory Markers** project
+
+**Thoughts**:
+There's progress! Getting the code to match the concept in my head has really been a trust the process moment. While searching how to center a div within a div I realised that Flexbox and CSS Grid are coming up! I remember being thoroughly confused by them but I also think the my projects will end up looking infinitely better once I have a grasp of it. 
+
+**Link to work:** [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp)
+
