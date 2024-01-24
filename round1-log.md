@@ -382,3 +382,15 @@ There's progress! Getting the code to match the concept in my head has really be
 
 **Link to work:** [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp)
 
+---
+
+### Day 24: January 24, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed the First HTML/CSS local project video walkthrough. Also followed the complementary Beyond Basics video.
+- Continued working on the code for my **RGB Colour Theory Markers** project
+
+**Thoughts**:
+Working in VSCode is actually easier since it autocompletes and links directly to documentation! I like seeing how things that I'm learning are coming together. My **RGB Colour Theory Markers** project is coming along nicely - I'm learning a lot about colour theory. I've decided to stop at the four basic colours: primary, seconday, tertiary and complementary colours. There's always more to add but I don't want to let the scope of the project run away from me when I still have the certification project to work on. 
+
+**Link to work:** [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp)
