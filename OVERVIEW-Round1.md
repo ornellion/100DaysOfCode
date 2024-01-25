@@ -94,3 +94,6 @@ Continued video walkthrough on using VSCode to build sites locally using HTML an
 
 ### R1D24 
 Completed video walkthrough on using VSCode to build first HTML/CSS project and the Beyond Basics video. Continued working on code for my [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp) project.
+
+### R1D25 
+Completed an introduction to Chrome Devtools to understand developing with CSS. Continued working on code for my [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp) project.
