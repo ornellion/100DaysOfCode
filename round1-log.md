@@ -394,3 +394,18 @@ There's progress! Getting the code to match the concept in my head has really be
 Working in VSCode is actually easier since it autocompletes and links directly to documentation! I like seeing how things that I'm learning are coming together. My **RGB Colour Theory Markers** project is coming along nicely - I'm learning a lot about colour theory. I've decided to stop at the four basic colours: primary, seconday, tertiary and complementary colours. There's always more to add but I don't want to let the scope of the project run away from me when I still have the certification project to work on. 
 
 **Link to work:** [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp)
+
+---
+
+### Day 25: January 25, 2024
+
+**Today's Progress**: 
+- Codecademy: Developing with CSS - introduction to using Chrome Devtools
+- Continued working on the code for my **RGB Colour Theory Markers** project
+
+**Thoughts**:
+Chrome Devtools is so cool! I hadn't realised that prototyping in the browser was a thing that could be done. I'd often wondered how people are able to identify elements from existing sites so easily. Apparently there's a tool for that! 
+
+I'm also finally nearing the end of the Colour Theory Markers project. I think figuring out the gradients might prove a little tricky but should be fine once I figure out how the colours works together (or find a tool to help). And then I need to style the divs that hold the markers and then display them a little nicer too. Okay, so maybe not so near the end as I thought hehe 
+
+**Link to work:** [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp)
