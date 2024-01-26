@@ -409,3 +409,16 @@ Chrome Devtools is so cool! I hadn't realised that prototyping in the browser wa
 I'm also finally nearing the end of the Colour Theory Markers project. I think figuring out the gradients might prove a little tricky but should be fine once I figure out how the colours works together (or find a tool to help). And then I need to style the divs that hold the markers and then display them a little nicer too. Okay, so maybe not so near the end as I thought hehe 
 
 **Link to work:** [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp)
+
+---
+
+### Day 26: January 26, 2024
+
+**Today's Progress**: 
+- Codecademy: Started working on Dasmoto's Arts & Crafts Project - an off-platform project using VS Code. 
+- Continued working on the code for my **RGB Colour Theory Markers** project
+
+**Thoughts**:
+I'm glad that the Codecademy path includes off-platform project and that they're better structured that the ones for the Data Science Foundations path. I feel like I actually have an idea of what I'm doing. For the Colour Theory Markers, the caps and sleeves are done and now I just need to figure out the gradients for the tertiary colours and add box shadows. Then it'll be a case of figuring out how to display them...
+
+**Link to work:** [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp)
