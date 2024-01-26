@@ -97,3 +97,6 @@ Completed video walkthrough on using VSCode to build first HTML/CSS project and 
 
 ### R1D25 
 Completed an introduction to Chrome Devtools to understand developing with CSS. Continued working on code for my [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp) project.
+
+### R1D26
+Started a Codecademy off-platform project - Dasmoto's Arts & Crafts. Continued working on code for my [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp) project.
