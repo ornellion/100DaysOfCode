@@ -100,3 +100,6 @@ Completed an introduction to Chrome Devtools to understand developing with CSS. 
 
 ### R1D26
 Started a Codecademy off-platform project - Dasmoto's Arts & Crafts. Continued working on code for my [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp) project.
+
+### R1D27
+Completed projects: Codecademy off-platform project - Dasmoto's Arts & Crafts & [RGB Colour Theory Markers - now on GitHub](https://github.com/ornellion/rgb-colour-markers)
