@@ -422,3 +422,28 @@ I'm also finally nearing the end of the Colour Theory Markers project. I think f
 I'm glad that the Codecademy path includes off-platform project and that they're better structured that the ones for the Data Science Foundations path. I feel like I actually have an idea of what I'm doing. For the Colour Theory Markers, the caps and sleeves are done and now I just need to figure out the gradients for the tertiary colours and add box shadows. Then it'll be a case of figuring out how to display them...
 
 **Link to work:** [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp)
+
+---
+
+
+### Day 27: January 27, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed Dasmoto's Arts & Crafts Project. 
+- Finished working on the code for my **RGB Colour Theory Markers** project
+- Created a repository for it on GitHub
+
+**Thoughts**:
+Today was the first day I spent more time coding on projects than I did following tutorials and I enjoyed the challenge! Even though the projects are relatively simple, I felt autonomous. If there was something I didn't know, I knew where to look for the answer. I also think it's because I'm making sure to take the time to make sure I understand the basics.
+
+I took the freeCodeCamp project from this: 
+
+![Screenshot 2024-01-27 at 21 11 10](https://github.com/ornellion/100DaysOfCode/assets/155359289/15c43c0d-75f0-4fa4-a6ef-db8125892e20)
+
+and spent time figuring out how to code this: 
+
+![Screenshot 2024-01-27 at 21 11 52](https://github.com/ornellion/100DaysOfCode/assets/155359289/d07fd4c4-7eb8-4a92-b1d0-a48e77cbee4c)
+
+The next steps for me would be to make it responsive as well as interactive in some way but I understand that will come with time as I learn more CSS and also JavaScript. I think the fact that I now have a strong foundational understanding of RGB will serve me well moving forwards. 
+
+**Link to work:** [RGB Colour Theory Markers on GitHub](https://github.com/ornellion/rgb-colour-markers)
