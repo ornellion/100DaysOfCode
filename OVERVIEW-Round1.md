@@ -103,3 +103,6 @@ Started a Codecademy off-platform project - Dasmoto's Arts & Crafts. Continued w
 
 ### R1D27
 Completed projects: Codecademy off-platform project - Dasmoto's Arts & Crafts & [RGB Colour Theory Markers - now on GitHub](https://github.com/ornellion/rgb-colour-markers)
+
+### R1D28
+Started Codecademy unit on Deploying Websites. Learned about hosting, domain names & command line basics. Started recreating freeCodeCamps Learn HTML Forms by Building a Registration Form.
