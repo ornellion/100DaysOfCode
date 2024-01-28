@@ -447,3 +447,18 @@ and spent time figuring out how to code this:
 The next steps for me would be to make it responsive as well as interactive in some way but I understand that will come with time as I learn more CSS and also JavaScript. I think the fact that I now have a strong foundational understanding of RGB will serve me well moving forwards. 
 
 **Link to work:** [RGB Colour Theory Markers on GitHub](https://github.com/ornellion/rgb-colour-markers)
+
+---
+
+### Day 28: January 28, 2024
+
+**Today's Progress**: 
+- Codecademy: Started the unit on Deploying Websites. Learned about hosting and domain names.
+- Learned the basics about using the command line using basic comands. 
+- Started recreating freeCodeCamps Learn HTML Forms by Building a Registration Form
+
+**Thoughts**:
+If there's one thing that I've learned over the past month is that I'm learning a lot but it can also feel like I've learned very little...? I'm slowly becoming more comfortable coding in VS Code. The command line actually makes sense rather than being a bunch of abstract commands I can recreate in a tutorial. I can create and commit to repos in GitHub. *Actually* having a GitHub account is progress in itself. 
+
+Yet, essentially after 3 months of coding I have a basic understanding of Python, HTML and CSS. But there's not much I can *do*. It's tempting to jump ahead to have more to show. I have to trust that the consistency and commitment to making sure my basic and higher-level understanding is solid will pay off in thye long-run. 
+
