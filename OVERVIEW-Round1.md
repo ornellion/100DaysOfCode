@@ -106,3 +106,6 @@ Completed projects: Codecademy off-platform project - Dasmoto's Arts & Crafts & 
 
 ### R1D28
 Started Codecademy unit on Deploying Websites. Learned about hosting, domain names & command line basics. Started recreating freeCodeCamps Learn HTML Forms by Building a Registration Form.
+
+### R1D29
+Completed Codecademy Deploying Websites & unit of Improved Styling with CSS: Color. Completed my recreation of the  Learn HTML Forms by Building a Registration Form course - [Cinema Registration Form](https://github.com/ornellion/cinema-registration-form)
