@@ -455,10 +455,32 @@ The next steps for me would be to make it responsive as well as interactive in s
 **Today's Progress**: 
 - Codecademy: Started the unit on Deploying Websites. Learned about hosting and domain names.
 - Learned the basics about using the command line using basic comands. 
-- Started recreating freeCodeCamps Learn HTML Forms by Building a Registration Form
+- Started recreating freeCodeCamp's Learn HTML Forms by Building a Registration Form
 
 **Thoughts**:
 If there's one thing that I've learned over the past month is that I'm learning a lot but it can also feel like I've learned very little...? I'm slowly becoming more comfortable coding in VS Code. The command line actually makes sense rather than being a bunch of abstract commands I can recreate in a tutorial. I can create and commit to repos in GitHub. *Actually* having a GitHub account is progress in itself. 
 
 Yet, essentially after 3 months of coding I have a basic understanding of Python, HTML and CSS. But there's not much I can *do*. It's tempting to jump ahead to have more to show. I have to trust that the consistency and commitment to making sure my basic and higher-level understanding is solid will pay off in thye long-run. 
 
+---
+
+### Day 29: January 29, 2024
+
+**Today's Progress**: 
+- Codecademy: Finished the unit on Deploying Websites by practicing basic commands
+- Completed the Improved Styling With CSS: Color lesson
+- Completed my recreation of freeCodeCamp's Learn HTML Forms by Building a Registration Form
+
+**Thoughts**:
+HTML forms look simple but they're...deceptively confusing. I'm glad I took the time to go through the lesson on HTML forms again. I worked straight from VS Code rather than in Codepen which is actually easier in some ways. 
+
+This is what's created in the course:
+![Screenshot 2024-01-29 at 15 57 45](https://github.com/ornellion/100DaysOfCode/assets/155359289/6d7ada0b-2841-4bf1-b3cb-770815dee23b)
+
+and I tried to change some elements and recreate something based on this [Odeon](https://www.odeon.co.uk/signup-my-odeon/) registration page. I added a header section, rearranged the form elements and changed up the styling. 
+
+![Screenshot 2024-01-29 at 15 56 15](https://github.com/ornellion/100DaysOfCode/assets/155359289/8f40c5dd-54fc-4e66-8b6b-4db87b9d53f2)
+
+I think the most frustrating thing so far is hitting the knowledge gap. I have an idea of what I want it to look like but at the moment I don't quite know how to get there yet. I hope one day (soon) I'll be able to look back and see how far I've come. 
+
+**Link to work:** [Cinema Registration Form](https://github.com/ornellion/cinema-registration-form)
