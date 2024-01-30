@@ -484,3 +484,18 @@ and I tried to change some elements and recreate something based on this [Odeon]
 I think the most frustrating thing so far is hitting the knowledge gap. I have an idea of what I want it to look like but at the moment I don't quite know how to get there yet. I hope one day (soon) I'll be able to look back and see how far I've come. 
 
 **Link to work:** [Cinema Registration Form](https://github.com/ornellion/cinema-registration-form)
+
+---
+
+### Day 30: January 30, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed the Improved Styling with CSS: Colors Paint Store Project
+- Completed Improved Styling with CSS: Typography lesson & quiz
+- freeCodeCamp: Started working on the Certification Project: Survey Form. Completed the wireframe
+- Updated the Cinema Registration repo as realised I hadn't linked the CSS properly 
+
+**Thoughts**:
+There's so much to CSS and I've only scratched the surface. I'm trying to remind myself that my future self will thank me for making sure that I've fully understood each concept before moving on to the next one.
+
+I completed my wireframe for the [Build a Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) Certification project based on the user stories. I prefer to do this by hand as it helps me have an idea of all the elements that should be included and think about the styling. Excited to see what the final project looks like compared to my initial ideas. 
