@@ -499,3 +499,15 @@ I think the most frustrating thing so far is hitting the knowledge gap. I have a
 There's so much to CSS and I've only scratched the surface. I'm trying to remind myself that my future self will thank me for making sure that I've fully understood each concept before moving on to the next one.
 
 I completed my wireframe for the [Build a Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) Certification project based on the user stories. I prefer to do this by hand as it helps me have an idea of all the elements that should be included and think about the styling. Excited to see what the final project looks like compared to my initial ideas. 
+
+---
+
+### Day 31: January 31, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed Improved Styling with CSS: Typography Project
+- Started Web Development Foundations — Challenge Project: Build Your Own Cheat Sheet 
+- freeCodeCamp: Started working on the Build a Survey Form HTML 
+
+**Thoughts**:
+In all my attempts at learning to code this is the first time I've done so much coding. With Codecademy including a challenge project I'm actually spending time in VS Code which is starting to feel more intuitive than working in a tutorial sandbox. Slowly, slowly, it's coming together.
