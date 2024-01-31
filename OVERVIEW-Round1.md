@@ -122,4 +122,9 @@ Completed projects: Codecademy off-platform project - Dasmoto's Arts & Crafts & 
 
 ### R1D30
 - Codecademy: Completed the Improved Styling with CSS: Colors Paint Store Project. Completed Improved Styling with CSS: Typography lesson & quiz
-- freeCodeCamp: Started working on the Certification Project: Survey Form. Completed the wireframe. 
+- freeCodeCamp: Started working on the Certification Project: Survey Form. Completed the wireframe.
+
+### R1D31 
+- Codecademy: Completed Improved Styling with CSS: Typography Project
+- Started Web Development Foundations — Challenge Project: Build Your Own Cheat Sheet 
+- freeCodeCamp: Started working on the Build a Survey Form HTML 
