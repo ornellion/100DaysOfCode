@@ -2,7 +2,7 @@
 <!--
 Inspired by the original repo that I forked. I created my own so that the contribution could be counted.
 
-### Day [X]: January X, 2024
+### Day [X]: February X, 2024
 
 **Today's Progress**: 
 - Codecademy:
@@ -511,3 +511,15 @@ I completed my wireframe for the [Build a Survey Form](https://www.freecodecamp.
 
 **Thoughts**:
 In all my attempts at learning to code this is the first time I've done so much coding. With Codecademy including a challenge project I'm actually spending time in VS Code which is starting to feel more intuitive than working in a tutorial sandbox. Slowly, slowly, it's coming together.
+
+---
+
+### Day 32: February 1, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued working Web Development Foundations — Challenge Project: Build Your Own Cheat Sheet
+- Decided on the topic (Semantic HTML) and the structure of my table 
+- freeCodeCamp: Continued working on the Build a Survey Form HTML - almost have all my form elements done 
+
+**Thoughts**:
+It feels oddly satisfying to start my 100 Days log with another month. Only 2 more to go! My thought process is starting to feel less disjointed and MDN Docs is my new best friend. I think it's a good sign that I now look forward to my days off so I have a solid chunk of time to code rather than an hour snatched here and there. 
