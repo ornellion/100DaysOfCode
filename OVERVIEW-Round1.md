@@ -127,4 +127,8 @@ Completed projects: Codecademy off-platform project - Dasmoto's Arts & Crafts & 
 ### R1D31 
 - Codecademy: Completed Improved Styling with CSS: Typography Project
 - Started Web Development Foundations — Challenge Project: Build Your Own Cheat Sheet 
-- freeCodeCamp: Started working on the Build a Survey Form HTML 
+- freeCodeCamp: Started working on the Build a Survey Form HTML
+
+## R1D32
+- Codecademy: Challenge Project: Build Your Own Cheat Sheet. Decided on the topic and structure.
+- freeCodeCamp: Continued working on the Build a Survey Form HTML 
