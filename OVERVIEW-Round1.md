@@ -129,6 +129,10 @@ Completed projects: Codecademy off-platform project - Dasmoto's Arts & Crafts & 
 - Started Web Development Foundations — Challenge Project: Build Your Own Cheat Sheet 
 - freeCodeCamp: Started working on the Build a Survey Form HTML
 
-## R1D32
+### R1D32
 - Codecademy: Challenge Project: Build Your Own Cheat Sheet. Decided on the topic and structure.
-- freeCodeCamp: Continued working on the Build a Survey Form HTML 
+- freeCodeCamp: Continued working on the Build a Survey Form HTML
+
+### R1D33 
+- Codecademy: hallenge Project: Build Your Own Cheat Sheet. Gathering the information that I want to enter into the table. 
+- freeCodeCamp: Build a Survey Form HTML. Completed the HTML structure. Most of the user stories passed except one: "Failed:All your radio buttons should have a value attribute and value."
