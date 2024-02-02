@@ -523,3 +523,16 @@ In all my attempts at learning to code this is the first time I've done so much 
 
 **Thoughts**:
 It feels oddly satisfying to start my 100 Days log with another month. Only 2 more to go! My thought process is starting to feel less disjointed and MDN Docs is my new best friend. I think it's a good sign that I now look forward to my days off so I have a solid chunk of time to code rather than an hour snatched here and there. 
+
+---
+
+### Day 33: February 2, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued working Web Development Foundations — Challenge Project: Build Your Own Cheat Sheet. Gathering the information that I want to enter into the table
+- freeCodeCamp: Continued working on the Build a Survey Form HTML. Completed the HTML structure. Most of the user stories passed except one: "Failed:All your radio buttons should have a value attribute and value."
+
+**Thoughts**:
+Other than a few little errors where I'd put a class instead of an id, my HTML structure is pretty sound! Struggling to figure out which of my radio buttons isn't passing the test. I wonder if it's the checkbox that are causing the issues... 
+
+I got to use the HTML validator for the first time while trying to figure out where the error was occuring though! Looking forward to getting it to pass all the tests and then move onto the CSS. 
