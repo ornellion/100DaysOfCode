@@ -7,22 +7,21 @@ A more detailed log can be found [here](round1-log.md).
 ## Log
 
 ### R1D1 
-Completed Codecademy Python Code Challenges: Strings (Advanced).
+- Completed Codecademy Python Code Challenges: Strings (Advanced).
 
 ### R1D2
-Completed Codecademy Python Code Challenges: Dictionaries. 
+- Completed Codecademy Python Code Challenges: Dictionaries. 
 
 ### R1D3 
-Completed Codecademy Python Code Challenges: Dictionaries (Advanced).
-Started the Classes Challenge.
+- Completed Codecademy Python Code Challenges: Dictionaries (Advanced).
+- Started the Classes Challenge.
 
 ### R1D4
-Completed the Codecademy Python Code Challenges: Classes.
-
-Completed [Learn Python 3](https://www.codecademy.com/enrolled/courses/learn-python-3) course. 
+- Completed the Codecademy Python Code Challenges: Classes.
+- Completed [Learn Python 3](https://www.codecademy.com/enrolled/courses/learn-python-3) course. 
 
 ### R1D5
-Started the Full-Stack Engineering Path on Codecademy. 
+- Started the Full-Stack Engineering Path on Codecademy. 
 
 ### R1D6 
 - Completed an Overview of the Internet & Languages for Web Development. 
@@ -110,7 +109,7 @@ Started the Full-Stack Engineering Path on Codecademy.
 - Continued working on code for my [RGB Colour Theory Markers](https://codepen.io/ornellion/pen/eYXRPOp) project.
 
 ### R1D27
-Completed projects: Codecademy off-platform project - Dasmoto's Arts & Crafts & [RGB Colour Theory Markers - now on GitHub](https://github.com/ornellion/rgb-colour-markers)
+- Completed projects: Codecademy off-platform project - Dasmoto's Arts & Crafts & [RGB Colour Theory Markers - now on GitHub](https://github.com/ornellion/rgb-colour-markers)
 
 ### R1D28
 - Started Codecademy unit on Deploying Websites. Learned about hosting, domain names & command line basics.
@@ -134,5 +133,9 @@ Completed projects: Codecademy off-platform project - Dasmoto's Arts & Crafts & 
 - freeCodeCamp: Continued working on the Build a Survey Form HTML
 
 ### R1D33 
-- Codecademy: hallenge Project: Build Your Own Cheat Sheet. Gathering the information that I want to enter into the table. 
+- Codecademy: Challenge Project: Build Your Own Cheat Sheet. Gathering the information that I want to enter into the table. 
 - freeCodeCamp: Build a Survey Form HTML. Completed the HTML structure. Most of the user stories passed except one: "Failed:All your radio buttons should have a value attribute and value."
+
+### R1D34 
+- Codecademy: Continued working on Challenge Project: Build Your Own Cheat Sheet. Finished gathering the information for the table & the HTML structure.
+- freeCodeCamp: Build a Survey Form HTML. Figured out why the last test was failing & passed the tests to complete the certification! 🎉 Started adding the CSS. 
