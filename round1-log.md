@@ -536,3 +536,20 @@ It feels oddly satisfying to start my 100 Days log with another month. Only 2 mo
 Other than a few little errors where I'd put a class instead of an id, my HTML structure is pretty sound! Struggling to figure out which of my radio buttons isn't passing the test. I wonder if it's the checkbox that are causing the issues... 
 
 I got to use the HTML validator for the first time while trying to figure out where the error was occuring though! Looking forward to getting it to pass all the tests and then move onto the CSS. 
+
+---
+
+### Day 34: February 3, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued working Web Development Foundations — Challenge Project: Build Your Own Cheat Sheet. Finished gathering the information for the table.
+- Finished the HTML structure for the Cheat Sheet table.
+- freeCodeCamp: Continued working on the Build a Survey Form HTML. Figured out why the last test was failing - I actually hadn't added the buttons!
+- Passed the tests to complete the certification! 🎉 Started adding the CSS to style the form. 
+
+**Thoughts**:
+I'm enjoying working on two projects simultaneously. There's not really enough time to get bored and what I learn in one area, I can use in another. And really I don't have to look for a different colour scheme if I already have one. 
+
+Juggling full-time work as well as coding is becoming easier. I'm steadily confirming that I'm a morning person, waking up at 4AM so I can have a solid 2 hours before work.
+
+Also, how has it been 34 days and I've only just figured out how to use emojis using markdown in Github! 😅
