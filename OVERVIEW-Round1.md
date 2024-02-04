@@ -138,4 +138,7 @@ A more detailed log can be found [here](round1-log.md).
 
 ### R1D34 
 - Codecademy: Continued working on Challenge Project: Build Your Own Cheat Sheet. Finished gathering the information for the table & the HTML structure.
-- freeCodeCamp: Build a Survey Form HTML. Figured out why the last test was failing & passed the tests to complete the certification! 🎉 Started adding the CSS. 
+- freeCodeCamp: Build a Survey Form HTML. Figured out why the last test was failing & passed the tests to complete the certification! 🎉 Started adding the CSS.
+
+### R1D36 
+- Working on the CSS for Codecademy: Build Your Own Cheat Sheet & freeCodeCamp: Build a Survey Form projects.
