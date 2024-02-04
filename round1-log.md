@@ -553,3 +553,16 @@ I'm enjoying working on two projects simultaneously. There's not really enough t
 Juggling full-time work as well as coding is becoming easier. I'm steadily confirming that I'm a morning person, waking up at 4AM so I can have a solid 2 hours before work.
 
 Also, how has it been 34 days and I've only just figured out how to use emojis using markdown in Github! 😅
+
+---
+
+### Day 35: February 4, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued working Web Development Foundations — Challenge Project: Build Your Own Cheat Sheet. Working on the CSS 
+- freeCodeCamp: Continued working on the Build a Survey Form HTML. Working on the CSS 
+
+**Thoughts**:
+I didn't think it was possible to spend over an hour grappling with CSS only for it to still not turn out how I want it to look like. I do think I have hit the wall of my current limited knowledge so I'm going to see how far I get tomorrow and accept whatever it looks like. 
+
+My projects are only going to look better moving forward, and the only way to move forward is to not get stuck on these particular projects that are basically completed. 
