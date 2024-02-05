@@ -475,6 +475,7 @@ Yet, essentially after 3 months of coding I have a basic understanding of Python
 HTML forms look simple but they're...deceptively confusing. I'm glad I took the time to go through the lesson on HTML forms again. I worked straight from VS Code rather than in Codepen which is actually easier in some ways. 
 
 This is what's created in the course:
+
 ![Screenshot 2024-01-29 at 15 57 45](https://github.com/ornellion/100DaysOfCode/assets/155359289/6d7ada0b-2841-4bf1-b3cb-770815dee23b)
 
 and I tried to change some elements and recreate something based on this [Odeon](https://www.odeon.co.uk/signup-my-odeon/) registration page. I added a header section, rearranged the form elements and changed up the styling. 
@@ -566,3 +567,28 @@ Also, how has it been 34 days and I've only just figured out how to use emojis u
 I didn't think it was possible to spend over an hour grappling with CSS only for it to still not turn out how I want it to look like. I do think I have hit the wall of my current limited knowledge so I'm going to see how far I get tomorrow and accept whatever it looks like. 
 
 My projects are only going to look better moving forward, and the only way to move forward is to not get stuck on these particular projects that are basically completed. 
+
+---
+### Day 36: February 5, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed the Challenge Project: Build Your Own Cheat Sheet 🎉
+- Started Improved Styling: Learn Links and Buttons unit 
+- freeCodeCamp: Completed the Certification Project: Build a Survey Form 🎉
+
+**Thoughts**:
+I feel like I've been working on these projects forever but realistically it's only been a couple of hours given that I have to find time around a full-time job. 
+
+I'm pretty proud of how my *Build Your Own Cheat Sheet* project turned out. I was able to review Semantic HTML Elements as wel as learning that you can use the hover element on table rows! 
+
+![Screenshot 2024-02-05 at 20 17 00](https://github.com/ornellion/100DaysOfCode/assets/155359289/31bb1d31-9c25-47ad-830b-f8e33fc0fbe2)
+
+The freeCodeCamp *Survey Form* has a few responsiveness issues but I got to try a few different things like changing the colour of the radio and checkboxes to match the theme. 
+
+![Screenshot 2024-02-05 at 22 09 13](https://github.com/ornellion/100DaysOfCode/assets/155359289/a296ba4b-5867-46db-9bc3-4c54b519536f)
+
+It matches my initial designs relatively closely. I need to put aside time to write more detailed descriptions of the projects in my Read Me documents of these projects before they start building up and I regret not having done it earlier 😅
+
+**Link to work:**
+- [Ornellion Cinema Club Survey Form](https://ornellion.github.io/freecodecamp-survey-form/)
+- [Semantic HTML Build Your Own Cheat Sheet](https://ornellion.github.io/builld-your-own-cheat-sheet/)
