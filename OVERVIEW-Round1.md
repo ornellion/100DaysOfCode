@@ -140,5 +140,10 @@ A more detailed log can be found [here](round1-log.md).
 - Codecademy: Continued working on Challenge Project: Build Your Own Cheat Sheet. Finished gathering the information for the table & the HTML structure.
 - freeCodeCamp: Build a Survey Form HTML. Figured out why the last test was failing & passed the tests to complete the certification! 🎉 Started adding the CSS.
 
-### R1D36 
+### R1D35 
 - Working on the CSS for Codecademy: Build Your Own Cheat Sheet & freeCodeCamp: Build a Survey Form projects.
+
+### R1D36 
+- Completed the freeCodeCamp Project: [Ornellion Cinema Club Survey Form](https://ornellion.github.io/freecodecamp-survey-form/)
+- Comopleted the [Semantic HTML Build Your Own Cheat Sheet](https://ornellion.github.io/builld-your-own-cheat-sheet/)
+- Started the Codecademy Improved Styling: Learn Links and Buttons.
