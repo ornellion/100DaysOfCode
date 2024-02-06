@@ -592,3 +592,20 @@ It matches my initial designs relatively closely. I need to put aside time to wr
 **Link to work:**
 - [Ornellion Cinema Club Survey Form](https://ornellion.github.io/freecodecamp-survey-form/)
 - [Semantic HTML Build Your Own Cheat Sheet](https://ornellion.github.io/builld-your-own-cheat-sheet/)
+
+---
+
+### Day Day 37: February 6, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed Improved Styling with CSS: Learn Links and Buttons unit chapter
+- Started Learn Secondary Navigation chapter
+- freeCodeCamp: Completed Learn the CSS Box Model by Building a Rothko Painting course
+- Started Learn CSS Flexbox by Building a Photo Gallery course
+
+**Thoughts**:
+Back to learning we go! The Codecademy chapters are really giving my an in-depth explanation on Links, Buttons and Navigation from a UI/UX point of view. I might take some of their web design courses to complement the knowledge as I think it'd really help streamline with my project designs.
+
+I don't think I'll recreate the Rothko Painting using CSS as it was a way to teach the Box Model that I already have a certain understanding about. I learned about the Filter and Transform properties though which are now. And now we have arrived at learning about CSS Flexbox! 
+
+I remember feeling stumped about CSS Flexbox and Grid before but it doesn't seem so bad so far. I guess we'll see how much I've understood when I go to create my own Photo Gallery 👀
