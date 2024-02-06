@@ -147,3 +147,7 @@ A more detailed log can be found [here](round1-log.md).
 - Completed the freeCodeCamp Project: [Ornellion Cinema Club Survey Form](https://ornellion.github.io/freecodecamp-survey-form/)
 - Comopleted the [Semantic HTML Build Your Own Cheat Sheet](https://ornellion.github.io/builld-your-own-cheat-sheet/)
 - Started the Codecademy Improved Styling: Learn Links and Buttons.
+
+### R1D37
+- Codecademy: Completed Improved Styling with CSS: Learn Links and Buttons chapter.  Started Learn Secondary Navigation chapter. 
+- freeCodeCamp: Completed Learn the CSS Box Model by Building a Rothko Painting course. Started Learn CSS Flexbox by Building a Photo Gallery course
