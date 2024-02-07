@@ -595,7 +595,7 @@ It matches my initial designs relatively closely. I need to put aside time to wr
 
 ---
 
-### Day Day 37: February 6, 2024
+### Day 37: February 6, 2024
 
 **Today's Progress**: 
 - Codecademy: Completed Improved Styling with CSS: Learn Links and Buttons unit chapter
@@ -609,3 +609,18 @@ Back to learning we go! The Codecademy chapters are really giving my an in-depth
 I don't think I'll recreate the Rothko Painting using CSS as it was a way to teach the Box Model that I already have a certain understanding about. I learned about the Filter and Transform properties though which are now. And now we have arrived at learning about CSS Flexbox! 
 
 I remember feeling stumped about CSS Flexbox and Grid before but it doesn't seem so bad so far. I guess we'll see how much I've understood when I go to create my own Photo Gallery 👀
+
+---
+
+### Day 38: February 7, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued with Improved Styling with CSS: Learn Secondary Navigation
+- freeCodeCamp: Completed Learn CSS Flexbox by Building a Photo Gallery
+- Started Learn Typography by Building a Nutrition Label 
+
+**Thoughts**:
+CSS Flexbox isn't actually that hard! I'll see what I think when I try and recreate it in my own projects I suppose. However, I think because this time around I have a basic understanding of Python 3, I'm finding concepts easier to understand as I'm not also trying to wrap my head around with the logic of learning a programming language. I'm just trying to understand the logic of Flexbox and that's coming easier. 
+
+Plus, following two courses on the subject with distinct teaching styles means that I get to learn about the same topics from different angles and access different resources. I'm enjoying it and learning a lot 😊
+
