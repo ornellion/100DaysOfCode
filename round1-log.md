@@ -624,3 +624,14 @@ CSS Flexbox isn't actually that hard! I'll see what I think when I try and recre
 
 Plus, following two courses on the subject with distinct teaching styles means that I get to learn about the same topics from different angles and access different resources. I'm enjoying it and learning a lot 😊
 
+---
+
+### Day 39: February 8, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed Improved Styling with CSS: Learn Secondary Navigation.
+- Started learning about Wireframing 
+- freeCodeCamp: Continued Learn Typography by Building a Nutrition Label 
+
+**Thoughts**:
+I appreciate learning about wireframing so I can incorporate it in my future design process. I've got some ideas already of what my portfolio will eventually look like. I'm definitely going to recreate a Nutrition Label. There's a lot CSS that goes into it to replicate one and attempting to do so on my own would solidify some of the content that seems very vague to me at the moment. 
