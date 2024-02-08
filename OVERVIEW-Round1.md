@@ -153,7 +153,10 @@ A more detailed log can be found [here](round1-log.md).
 - freeCodeCamp: Completed Learn the CSS Box Model by Building a Rothko Painting course. Started Learn CSS Flexbox by Building a Photo Gallery course
 
 ### R1D38
-
 - Codecademy: Continued with Improved Styling with CSS: Learn Secondary Navigation
-- freeCodeCamp: Completed Learn CSS Flexbox by Building a Photo Gallery. Started Learn Typography by Building a Nutrition Label 
+- freeCodeCamp: Completed Learn CSS Flexbox by Building a Photo Gallery. Started Learn Typography by Building a Nutrition Label
+
+### R1D39
+- Codecademy: Completed Improved Styling with CSS: Learn Secondary Navigation.Started learning about Wireframing 
+- freeCodeCamp: Continued Learn Typography by Building a Nutrition Label 
 
