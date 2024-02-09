@@ -157,6 +157,9 @@ A more detailed log can be found [here](round1-log.md).
 - freeCodeCamp: Completed Learn CSS Flexbox by Building a Photo Gallery. Started Learn Typography by Building a Nutrition Label
 
 ### R1D39
-- Codecademy: Completed Improved Styling with CSS: Learn Secondary Navigation.Started learning about Wireframing 
+- Codecademy: Completed Improved Styling with CSS: Learn Secondary Navigation. Started learning about Wireframing 
 - freeCodeCamp: Continued Learn Typography by Building a Nutrition Label 
 
+### R1D40 
+- Codecademy: Completed resources on wireframing and protoyping. Read the requirements for Challenge Project: Build a Website Design System
+- freeCodeCamp: Competed Learn Typography by Building a Nutrition Label course 🎉
