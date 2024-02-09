@@ -635,3 +635,17 @@ Plus, following two courses on the subject with distinct teaching styles means t
 
 **Thoughts**:
 I appreciate learning about wireframing so I can incorporate it in my future design process. I've got some ideas already of what my portfolio will eventually look like. I'm definitely going to recreate a Nutrition Label. There's a lot CSS that goes into it to replicate one and attempting to do so on my own would solidify some of the content that seems very vague to me at the moment. 
+
+---
+
+### Day 40: February 9, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed resources on wireframing and protoyping
+- Read the requirements for Challenge Project: Build a Website Design System
+- freeCodeCamp: Competed Learn Typography by Building a Nutrition Label course 🎉
+
+**Thoughts**:
+Recreating the Nutrition Label taught me a lot about the relationship between HTML elements such as <span> and the CSS to be able to create the desired styling. I also learned a lot about using classes - they're more reusable than I realised and keep code cleaner. Up until now I've definitely been using them more like IDs. I can also see how it's important to work on both the HTML and CSS as I go rather than being tempted to create the HTML first and then the CSS. No wonder I was getitng confused 😅
+
+I'm excited to get into the next Codecademy project - building a website design system means getting to play around with colour palettes and typography! 
