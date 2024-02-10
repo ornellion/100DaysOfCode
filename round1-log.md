@@ -649,3 +649,16 @@ I appreciate learning about wireframing so I can incorporate it in my future des
 Recreating the Nutrition Label taught me a lot about the relationship between HTML elements such as <span> and the CSS to be able to create the desired styling. I also learned a lot about using classes - they're more reusable than I realised and keep code cleaner. Up until now I've definitely been using them more like IDs. I can also see how it's important to work on both the HTML and CSS as I go rather than being tempted to create the HTML first and then the CSS. No wonder I was getitng confused 😅
 
 I'm excited to get into the next Codecademy project - building a website design system means getting to play around with colour palettes and typography! 
+
+---
+
+### Day 41: February 10, 2024
+
+**Today's Progress**: 
+- Codecademy: Created the wireframe for Challenge Project: Build a Website Design System 
+- freeCodeCamp: Started Learn Accessibility by Building a Quiz course
+
+**Thoughts**:
+Wireframing has to be my favourite part of the process. And now I have more knowledge about how to create a more effective wireframe I'm focusing more on having the essential elements and labelling so that I have a solid foundation when I do go to code. If I've learned anything is that time spent on having a solid foundation isn't time wasted. It helps me understand what I can already do and what I'll need to spend more time researching on what to do. 
+
+I can also see how freeCodeCamp's curriculum has changed since the last time I attempted it. I find that key elements are repeated enough and in different ways to solidify previous knowledge. Unless there's something in a course I really want to recreate I think I might focus on completing the certification projects. I feel much more confident in my coding than when I started the Web Design Certification. 💚
