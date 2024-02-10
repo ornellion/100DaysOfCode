@@ -163,3 +163,8 @@ A more detailed log can be found [here](round1-log.md).
 ### R1D40 
 - Codecademy: Completed resources on wireframing and protoyping. Read the requirements for Challenge Project: Build a Website Design System
 - freeCodeCamp: Competed Learn Typography by Building a Nutrition Label course 🎉
+
+### R1D41
+- Codecademy: Created the wireframe for Challenge Project: Build a Website Design System 
+- freeCodeCamp: Started Learn Accessibility by Building a Quiz course
+
