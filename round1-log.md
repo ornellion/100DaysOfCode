@@ -662,3 +662,16 @@ I'm excited to get into the next Codecademy project - building a website design 
 Wireframing has to be my favourite part of the process. And now I have more knowledge about how to create a more effective wireframe I'm focusing more on having the essential elements and labelling so that I have a solid foundation when I do go to code. If I've learned anything is that time spent on having a solid foundation isn't time wasted. It helps me understand what I can already do and what I'll need to spend more time researching on what to do. 
 
 I can also see how freeCodeCamp's curriculum has changed since the last time I attempted it. I find that key elements are repeated enough and in different ways to solidify previous knowledge. Unless there's something in a course I really want to recreate I think I might focus on completing the certification projects. I feel much more confident in my coding than when I started the Web Design Certification. 💚
+
+---
+
+### Day 42: February 11, 2024
+
+**Today's Progress**: 
+- Codecademy: Started picking content for Challenge Project: Build a Website Design System 
+- freeCodeCamp: Continued Learn Accessibility by Building a Quiz course
+
+**Thoughts**:
+Designers are actually amazing. Picking a colour palette is an art! I have a tendency to have decision paralysis so I might have to give myself an option of like 3 colour palettes and then pick the one I like one morning or I'll spend the next couple days quibbling over colours and fonts. I want to include a Dark Mode so this might also narrow down the scope.
+
+Accessibility is also a much broader topic than I imagined. I want to eventually read more about it. I hadn't realised just how important it is to making the web accessible to all. 
