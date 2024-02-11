@@ -168,3 +168,6 @@ A more detailed log can be found [here](round1-log.md).
 - Codecademy: Created the wireframe for Challenge Project: Build a Website Design System 
 - freeCodeCamp: Started Learn Accessibility by Building a Quiz course
 
+### R1D42
+- Codecademy: Started picking content for Challenge Project: Build a Website Design System 
+- freeCodeCamp: Continued Learn Accessibility by Building a Quiz course
