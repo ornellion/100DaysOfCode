@@ -675,3 +675,14 @@ I can also see how freeCodeCamp's curriculum has changed since the last time I a
 Designers are actually amazing. Picking a colour palette is an art! I have a tendency to have decision paralysis so I might have to give myself an option of like 3 colour palettes and then pick the one I like one morning or I'll spend the next couple days quibbling over colours and fonts. I want to include a Dark Mode so this might also narrow down the scope.
 
 Accessibility is also a much broader topic than I imagined. I want to eventually read more about it. I hadn't realised just how important it is to making the web accessible to all. 
+
+---
+
+### Day 43: February 12, 2024
+
+**Today's Progress**: 
+- Codecademy: Started writing the code Challenge Project: Build a Website Design System 
+- freeCodeCamp: Continued Learn Accessibility by Building a Quiz course
+
+**Thoughts**:
+I decided to not spend too much time on the actual content of my Website Design System and have started writing the code. I'm trying a different approach by writing both the HTML and CSS at the same time and working from top to bottom. It really does make me question how much I've learned over the past 40 days 😅 I suppose the only way to get better is to keep coding. For everything else there's Google. 
