@@ -171,3 +171,7 @@ A more detailed log can be found [here](round1-log.md).
 ### R1D42
 - Codecademy: Started picking content for Challenge Project: Build a Website Design System 
 - freeCodeCamp: Continued Learn Accessibility by Building a Quiz course
+
+### R1D42
+- Codecademy: Started writing the code Challenge Project: Build a Website Design System 
+- freeCodeCamp: Continued Learn Accessibility by Building a Quiz course
