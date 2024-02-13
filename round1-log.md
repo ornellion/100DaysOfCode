@@ -686,3 +686,16 @@ Accessibility is also a much broader topic than I imagined. I want to eventually
 
 **Thoughts**:
 I decided to not spend too much time on the actual content of my Website Design System and have started writing the code. I'm trying a different approach by writing both the HTML and CSS at the same time and working from top to bottom. It really does make me question how much I've learned over the past 40 days 😅 I suppose the only way to get better is to keep coding. For everything else there's Google. 
+
+---
+
+### Day 44: February 13, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued writing the code Challenge Project: Build a Website Design System 
+- freeCodeCamp: Continued Learn Accessibility by Building a Quiz course
+
+**Thoughts**:
+It took a lot to sit in front of my computer and code today. I know that missing one day isn't the end of the world but I also know myself enough to know one day very easily turns into one year without coding. The code for the Challenge Project is coming along nicely. My understanding of Flexbox? Not so much. 
+
+I hadn't imagined the learning curve that comes with CSS Flexbox using freeCodeCamp. There's just not enough material there for me to truly understand what I'm doing. Luckily I think there are plenty of fun resources out there to help. 
