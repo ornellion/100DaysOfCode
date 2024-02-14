@@ -176,6 +176,11 @@ A more detailed log can be found [here](round1-log.md).
 - Codecademy: Started writing the code Challenge Project: Build a Website Design System 
 - freeCodeCamp: Continued Learn Accessibility by Building a Quiz course
 
-### R1D4 
+### R1D43 
 - Codecademy: Continued writing the code Challenge Project: Build a Website Design System 
 - freeCodeCamp: Continued Learn Accessibility by Building a Quiz course
+
+### R1D45
+- Codecademy: Continued with Challenge Project: Build a Website Design System code.
+- freeCodeCamp: Completed Learn Accessibility by Building a Quiz course 🎉
+- Started working on Certification Project: Tribute Page 
