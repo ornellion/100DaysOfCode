@@ -699,3 +699,18 @@ I decided to not spend too much time on the actual content of my Website Design 
 It took a lot to sit in front of my computer and code today. I know that missing one day isn't the end of the world but I also know myself enough to know one day very easily turns into one year without coding. The code for the Challenge Project is coming along nicely. My understanding of Flexbox? Not so much. 
 
 I hadn't imagined the learning curve that comes with CSS Flexbox using freeCodeCamp. There's just not enough material there for me to truly understand what I'm doing. Luckily I think there are plenty of fun resources out there to help. 
+
+---
+
+### Day 45: February 14, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued with Challenge Project: Build a Website Design System.
+- Finished the Colours Section, started on the Fonts. 
+- freeCodeCamp: Completed Learn Accessibility by Building a Quiz course 🎉
+- Started working on Certification Project: Tribute Page - understanding the User Stories and picking a topic 
+
+**Thoughts**:
+It's that time of the month when I'm working on two projects at once! The main roadblock I'm encountering with building the Website Design System is the feeling that I won't be able to recreate the wireframe. Except that when I take it one section at a time it's coming together. It's the little things like being uncertain about Flex. 
+
+The Tribute Page and the User Stories are relatively simple however I do want to create something visually interesting and pushes me out me comfort zone. I suppose I'll see what I come up with! 😅
