@@ -714,3 +714,16 @@ I hadn't imagined the learning curve that comes with CSS Flexbox using freeCodeC
 It's that time of the month when I'm working on two projects at once! The main roadblock I'm encountering with building the Website Design System is the feeling that I won't be able to recreate the wireframe. Except that when I take it one section at a time it's coming together. It's the little things like being uncertain about Flex. 
 
 The Tribute Page and the User Stories are relatively simple however I do want to create something visually interesting and pushes me out me comfort zone. I suppose I'll see what I come up with! 😅
+
+---
+
+### Day 46: February 15, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued with Challenge Project: Build a Website Design System.
+- Continued with the Fonts. Encountered an issue with child overflow of the parent container
+- freeCodeCamp: Continued wrking on Certification Project: Tribute Page
+- Completed the wireframe in keeping with the user stories  
+
+**Thoughts**:
+The main issue here is definitely that I want to use Flexbox but I...don't know how. Since Flexbox is a way of aligning items in a container, I figure if I create the containers first I can then figure out how to align them...? Basically I'm going to create the content for the projects and then take some time out to make sure I've understood Flexbox and what I'm trying to do with it. I'll figure it out 🤞
