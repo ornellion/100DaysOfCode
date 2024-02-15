@@ -184,3 +184,7 @@ A more detailed log can be found [here](round1-log.md).
 - Codecademy: Continued with Challenge Project: Build a Website Design System code.
 - freeCodeCamp: Completed Learn Accessibility by Building a Quiz course 🎉
 - Started working on Certification Project: Tribute Page 
+
+### R1D46
+- Codecademy: Continued with Challenge Project: Build a Website Design System.
+- freeCodeCamp: Continued wrking on Certification Project: Tribute Page
