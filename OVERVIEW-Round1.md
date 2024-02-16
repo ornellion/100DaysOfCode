@@ -188,3 +188,7 @@ A more detailed log can be found [here](round1-log.md).
 ### R1D46
 - Codecademy: Continued with Challenge Project: Build a Website Design System.
 - freeCodeCamp: Continued wrking on Certification Project: Tribute Page
+
+### R1D47
+- Codecademy: Continued with Challenge Project: Build a Website Design System.
+- freeCodeCamp: Continued wrking on Certification Project: Tribute Page
