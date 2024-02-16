@@ -727,3 +727,16 @@ The Tribute Page and the User Stories are relatively simple however I do want to
 
 **Thoughts**:
 The main issue here is definitely that I want to use Flexbox but I...don't know how. Since Flexbox is a way of aligning items in a container, I figure if I create the containers first I can then figure out how to align them...? Basically I'm going to create the content for the projects and then take some time out to make sure I've understood Flexbox and what I'm trying to do with it. I'll figure it out 🤞
+
+---
+
+### Day 46: February 15, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued with Challenge Project: Build a Website Design System.
+- Started working on the text styles. Figuring out how to reuse classes to keep code neat
+- freeCodeCamp: Continued wrking on Certification Project: Tribute Page
+- Started collecting the Tribute Page content using Notion 
+
+**Thoughts**:
+Working on two projects in tandem asks a bit of mental gymnastics 😅 It does also have the benefit that I don't linger too long on one project and what I've learned in one I can apply to the other. For example, getting a little stuck on the content for the Website Design System has made it gathering the content and design elements for the Tribute Page a smoother experience. The first thing that looks good is good enough and I can reiterate later. 
