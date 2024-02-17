@@ -730,7 +730,7 @@ The main issue here is definitely that I want to use Flexbox but I...don't know 
 
 ---
 
-### Day 46: February 16, 2024
+### Day 47: February 16, 2024
 
 **Today's Progress**: 
 - Codecademy: Continued with Challenge Project: Build a Website Design System.
@@ -743,7 +743,7 @@ Working on two projects in tandem asks a bit of mental gymnastics 😅 It does a
 
 ---
 
-### Day 47: February 17, 2024
+### Day 48: February 17, 2024
 
 **Today's Progress**: 
 - Codecademy: Continued with Challenge Project: Build a Website Design System.
