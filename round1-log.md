@@ -722,7 +722,7 @@ The Tribute Page and the User Stories are relatively simple however I do want to
 **Today's Progress**: 
 - Codecademy: Continued with Challenge Project: Build a Website Design System.
 - Continued with the Fonts. Encountered an issue with child overflow of the parent container
-- freeCodeCamp: Continued wrking on Certification Project: Tribute Page
+- freeCodeCamp: Continued working on Certification Project: Tribute Page
 - Completed the wireframe in keeping with the user stories  
 
 **Thoughts**:
@@ -730,13 +730,28 @@ The main issue here is definitely that I want to use Flexbox but I...don't know 
 
 ---
 
-### Day 46: February 15, 2024
+### Day 46: February 16, 2024
 
 **Today's Progress**: 
 - Codecademy: Continued with Challenge Project: Build a Website Design System.
 - Started working on the text styles. Figuring out how to reuse classes to keep code neat
-- freeCodeCamp: Continued wrking on Certification Project: Tribute Page
+- freeCodeCamp: Continued working on Certification Project: Tribute Page
 - Started collecting the Tribute Page content using Notion 
 
 **Thoughts**:
 Working on two projects in tandem asks a bit of mental gymnastics 😅 It does also have the benefit that I don't linger too long on one project and what I've learned in one I can apply to the other. For example, getting a little stuck on the content for the Website Design System has made it gathering the content and design elements for the Tribute Page a smoother experience. The first thing that looks good is good enough and I can reiterate later. 
+
+---
+
+### Day 47: February 17, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued with Challenge Project: Build a Website Design System.
+- Started working on the final section: dark/light mode 
+- freeCodeCamp: Continued working on Certification Project: Tribute Page
+- Finished selecting the elements - started coding
+
+**Thoughts**:
+As I approach the halfway mark I'm finding that my motivation is waning. It helps to realise that what I'm struggling with such as making a website responsive is what I'll be learning next in Codecademy. I could also easily build the most basic of websites to meet the user stories & project requirements but my focus is on building things I'm proud of, not just to pass the tutorials. 
+
+I have to remeber that even if I've "only" learned the foundations of Web Design of in these 100 days of code, I will have learned consistency and not giving up when things get tough. I can do this! 💪
