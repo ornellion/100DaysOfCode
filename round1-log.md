@@ -755,3 +755,16 @@ Working on two projects in tandem asks a bit of mental gymnastics 😅 It does a
 As I approach the halfway mark I'm finding that my motivation is waning. It helps to realise that what I'm struggling with such as making a website responsive is what I'll be learning next in Codecademy. I could also easily build the most basic of websites to meet the user stories & project requirements but my focus is on building things I'm proud of, not just to pass the tutorials. 
 
 I have to remeber that even if I've "only" learned the foundations of Web Design of in these 100 days of code, I will have learned consistency and not giving up when things get tough. I can do this! 💪
+
+---
+
+### Day 49: February 18, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued with Challenge Project: Build a Website Design System.
+- I have all the elements and the basic styling. It just needs some tweaking. 
+- freeCodeCamp: Continued working on Certification Project: Tribute Page
+- Started coding, following a top-down approach of HTML & CSS at the same time
+
+**Thoughts**:
+It feels satisfying to know I'm close to finishing the Codecademy project - there are some tweaks that are needed but it's mainly styling. I also feel confident that the Tribute Page shouldn't take too long. Hopefully once I hit the halfway mark I'll feel renewed inspiration ✨
