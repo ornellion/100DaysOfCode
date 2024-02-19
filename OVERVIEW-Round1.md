@@ -197,6 +197,9 @@ A more detailed log can be found [here](round1-log.md).
 - Codecademy: Continued with Challenge Project: Build a Website Design System.
 - freeCodeCamp: Continued working on Certification Project: Tribute Page
 
-### R1D48
+### R1D49
 - Codecademy: Continued with Challenge Project: Build a Website Design System.
 - freeCodeCamp: Continued working on Certification Project: Tribute Page
+
+### R1D50 🎊
+- Codecademy: Finally completed the Challenge Project: Build a Website Design System - [Ornellion's Web Style Guide](https://github.com/ornellion/ornellion-web-style-guide) 🎉
