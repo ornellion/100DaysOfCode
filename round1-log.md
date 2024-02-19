@@ -768,3 +768,20 @@ I have to remeber that even if I've "only" learned the foundations of Web Design
 
 **Thoughts**:
 It feels satisfying to know I'm close to finishing the Codecademy project - there are some tweaks that are needed but it's mainly styling. I also feel confident that the Tribute Page shouldn't take too long. Hopefully once I hit the halfway mark I'll feel renewed inspiration ✨
+
+---
+
+### Day 50: February 19, 2024
+
+**Today's Progress**: 
+- Codecademy: Finally finished the Challenge Project: Build a Website Design System.
+- [Ornellion's Web Style Guide](https://github.com/ornellion/ornellion-web-style-guide) is completed to the stage I'm happy with 🎉
+
+**Thoughts**:
+As much as I like switching between projects, I had a little more time before work today and felt it was better spent finishing one project so I can continue learning. Moving forward, I might have to see if focusing on one project at time (and only switching if I get stuck) is more efficient than working 30 mins at a time. 
+
+https://github.com/ornellion/100DaysOfCode/assets/155359289/61a0ab64-adf4-4a64-9df3-82ad528329f0
+
+I'm actually really happy with how it came out - it has the basic responsiveness that I wanted as well as a more polished overall look than the example page. Flexbox wasn't anywhere as complicated as I thought it was 😅 I'm definitely looking forward to seeing how I apply it to the Tribute Page project and other projects moving forward! 
+
+I'm also very proud of myself for hitting the halfway mark in the 100 Days of Code journey! 🎊
