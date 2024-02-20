@@ -785,3 +785,16 @@ https://github.com/ornellion/100DaysOfCode/assets/155359289/61a0ab64-adf4-4a64-9
 I'm actually really happy with how it came out - it has the basic responsiveness that I wanted as well as a more polished overall look than the example page. Flexbox wasn't anywhere as complicated as I thought it was 😅 I'm definitely looking forward to seeing how I apply it to the Tribute Page project and other projects moving forward! 
 
 I'm also very proud of myself for hitting the halfway mark in the 100 Days of Code journey! 🎊
+
+---
+
+### Day 51: February 20, 2024
+
+**Today's Progress**: 
+- Codecademy: Started Making A Website Responsive Unit - completed Learn Responsive Design: Grids and Design
+- freeCodeCamp: Continued working on Certification Project: Tribute Page
+
+**Thoughts**:
+Even though my web style guide needs some tweaking I'm hoping that continuing my learning will illuminate why my text spills over the parent container when screen size is too small. There's no point in me staying stuck on something that I'm still learning. 
+
+The Tribute Page is coming along nicely. I'm really having to work through the need to tweak and perfect as I go when it is easier to get down the basic elements and styling and then tweak. Done is better than perfect! 
