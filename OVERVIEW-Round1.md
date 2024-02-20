@@ -203,3 +203,8 @@ A more detailed log can be found [here](round1-log.md).
 
 ### R1D50 🎊
 - Codecademy: Finally completed the Challenge Project: Build a Website Design System - [Ornellion's Web Style Guide](https://github.com/ornellion/ornellion-web-style-guide) 🎉
+
+### R1D51
+- Codecademy: Started Making A Website Responsive Unit
+- Completed Learn Responsive Design: Grids and Design
+- freeCodeCamp: Continued working on Certification Project: Tribute Page
