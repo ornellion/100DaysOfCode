@@ -208,3 +208,7 @@ A more detailed log can be found [here](round1-log.md).
 - Codecademy: Started Making A Website Responsive Unit
 - Completed Learn Responsive Design: Grids and Design
 - freeCodeCamp: Continued working on Certification Project: Tribute Page
+
+### R1D52
+- Codecademy: Started learning about Flexbox
+- freeCodeCamp: Continued working on Certification Project: Tribute Page HTML/CSS 
