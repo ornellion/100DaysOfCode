@@ -798,3 +798,14 @@ I'm also very proud of myself for hitting the halfway mark in the 100 Days of Co
 Even though my web style guide needs some tweaking I'm hoping that continuing my learning will illuminate why my text spills over the parent container when screen size is too small. There's no point in me staying stuck on something that I'm still learning. 
 
 The Tribute Page is coming along nicely. I'm really having to work through the need to tweak and perfect as I go when it is easier to get down the basic elements and styling and then tweak. Done is better than perfect! 
+
+---
+
+### Day 52: February 21, 2024
+
+**Today's Progress**: 
+- Codecademy: Started learning about Flexbox
+- freeCodeCamp: Continued working on Certification Project: Tribute Page HTML/CSS 
+
+**Thoughts**:
+I'm happy that Codecademy goes in so much more depth into topics than freeCodeCamp. I do feel that I get what I pay for and more. I'm really hoping to get the Tribute Page completed within the next couple of days. 
