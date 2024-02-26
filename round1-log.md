@@ -809,3 +809,16 @@ The Tribute Page is coming along nicely. I'm really having to work through the n
 
 **Thoughts**:
 I'm happy that Codecademy goes in so much more depth into topics than freeCodeCamp. I do feel that I get what I pay for and more. I'm really hoping to get the Tribute Page completed within the next couple of days. 
+
+---
+
+### Day 53: February 26, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued learning about Flexbox 
+- freeCodeCamp: Continued working on Certification Project: Tribute Page HTML/CSS 
+
+**Thoughts**:
+I did not intend to be away for 5 days 😅 I've not been feeling well so one day sort of blended into the other. I think by the original rule of the challenge this means I didn't code for 100 days but I'd still like to carry on and reach 100 days. 
+
+It was a little challenging getting back into the flow of things. My Tribute Page passed the test 🙌 so it contains all the elements that it should be it looks nothing like I want it to at the moment... Nothing a couple of hours tinkering can't fix. 
