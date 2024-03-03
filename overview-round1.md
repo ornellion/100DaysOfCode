@@ -4,7 +4,7 @@ This the log of my #100DaysOfCode challenge. Started on **January 1, 2024**.
 
 A more detailed log can be found [here](round1-log.md). 
 
-There was a 5-day break between Days 52 & 53. Decided to continue with the challenge as my focus for the year is to get things done as opposed to perfectly. 
+There was a 5-day break between Days 52 & 53. Decided to end the challenge and split it into 50 days chunk to avoid burning out and taking out the enjoyment of coding. 
 
 ## Log
 
