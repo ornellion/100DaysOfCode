@@ -10,3 +10,8 @@ A more detailed log can be found [here](round2-log.md).
 - Codecademy: Continued learning about Flexbox 
 - freeCodeCamp: Continued working on Certification Project: Tribute Page
 - It's passed to tests but I'm working on applying Flexbox and the visual aspects
+
+### R1D2
+- Codecademy: Completed the Flexbox unit lesson and guided To Do App exercise
+- Started on the Off-Platform Project: Tea Cozy 
+- freeCodeCamp: Almost done with the Tribute Page! 
