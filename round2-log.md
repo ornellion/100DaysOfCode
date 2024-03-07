@@ -38,3 +38,23 @@ What I'm learning about Flexbox in Codecademy I'm applying to my Tribute Page. I
 I'm almost done with the Tribute Page! 😌 I'm glad that I kept going until it looked like what I'd envisioned. All that remains are a few stylistic tweakings like the accent colour and fixing the strip of white at the bottom of the page and I'll be done! Right in time to start another project...
 
 I'm not sure why I'm taken by surprise every time I'm expected to complete a project 😅 The Codecademy Off-Platform Project is the first that has just provided a design spec and resources and sent us off on our merry way. Even while knowing there's no right and wrong to complete the perfectionist is certain there's a way to do it wrong. 
+
+---
+
+### Day 3: March 7, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued working on the Off-Platform Project: Tea Cozy
+- Finished navbar - started working on hero image
+- freeCodeCamp: Finally completed the [Tribute Page - Ron Weasley](https://github.com/ornellion/tribute-page-ron-weasley)! 🎉
+
+**Thoughts**:
+I had another couple of days off for health reasons but since it was only a couple of days it made sense to just jump right back in and keep going. And I'm so glad that I finally got the Tribute Page to where it passed the tests and I was happy with the way it looked! 
+
+https://github.com/ornellion/100DaysOfCode/assets/155359289/1e3b3e1a-11d1-44f3-8783-6525efaa3953
+
+I'm happy with the progress I've made with making a website responsive too. It's the first time I've liked the way a project has looked on my phone. And I've still got so much to learn 😅
+
+It's interesting how far I feel like I've come but also how much further I have to go. Working on the Codecademy Off-Platform Project feels easier to get stuck into than it did a couple of weeks ago even though the learning curve feels...steeper? I think it's because I have a better idea of what to Google now and how to add that to my code. 
+
+**Link to work:** [Tribute Page - Ron Weasley](https://ornellion.github.io/tribute-page-ron-weasley/)
