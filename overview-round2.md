@@ -21,3 +21,7 @@ Took a 2-day break between days 2 & 3 for health reasons.
 ### R1D3
 - Codecademy: Continued working on the Off-Platform Project: Tea Cozy
 - freeCodeCamp: Finally completed the [Tribute Page - Ron Weasley](https://github.com/ornellion/tribute-page-ron-weasley)! 🎉
+
+### R1D4 
+- Codecademy: Continued working on the Off-Platform Project: Tea Cozy
+- freeCodeCamp: Started Learn More about CSS Pseudo Selectors by Building a Balance Sheet
