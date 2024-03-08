@@ -58,3 +58,16 @@ I'm happy with the progress I've made with making a website responsive too. It's
 It's interesting how far I feel like I've come but also how much further I have to go. Working on the Codecademy Off-Platform Project feels easier to get stuck into than it did a couple of weeks ago even though the learning curve feels...steeper? I think it's because I have a better idea of what to Google now and how to add that to my code. 
 
 **Link to work:** [Tribute Page - Ron Weasley](https://ornellion.github.io/tribute-page-ron-weasley/)
+
+---
+
+### Day 4: March 8, 2024 💜
+
+**Today's Progress**: 
+- Codecademy: Continued working on the Off-Platform Project: Tea Cozy
+- freeCodeCamp: Started Learn More about CSS Pseudo Selectors by Building a Balance Sheet
+
+**Thoughts**:
+Returning to coding with the built-in text editor after living in VSCode for my projects can be such a shock! What do you mean I have to close my own tags?? 
+
+Building a Balance Sheet isn't the most exciting thing but I'm cementing knowledge I learned earlier on when it was covered in Codecademy. I'm also excited to get to the part of the pseudo selectors so I can start doing lots of snazzy things with my CSS. 
