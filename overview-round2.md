@@ -25,3 +25,6 @@ Took a 2-day break between days 2 & 3 for health reasons.
 ### R1D4 
 - Codecademy: Continued working on the Off-Platform Project: Tea Cozy
 - freeCodeCamp: Started Learn More about CSS Pseudo Selectors by Building a Balance Sheet
+
+### R1D5 
+- Codecademy: Completed the [Off-Platform Project: Tea Cozy](https://github.com/ornellion/codecademy-tea-cozy) 🎉
