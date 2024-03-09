@@ -35,6 +35,7 @@ What I'm learning about Flexbox in Codecademy I'm applying to my Tribute Page. I
 - freeCodeCamp: Almost done with the Tribute Page! 
 
 **Thoughts**:
+
 I'm almost done with the Tribute Page! 😌 I'm glad that I kept going until it looked like what I'd envisioned. All that remains are a few stylistic tweakings like the accent colour and fixing the strip of white at the bottom of the page and I'll be done! Right in time to start another project...
 
 I'm not sure why I'm taken by surprise every time I'm expected to complete a project 😅 The Codecademy Off-Platform Project is the first that has just provided a design spec and resources and sent us off on our merry way. Even while knowing there's no right and wrong to complete the perfectionist is certain there's a way to do it wrong. 
@@ -44,6 +45,7 @@ I'm not sure why I'm taken by surprise every time I'm expected to complete a pro
 ### Day 3: March 7, 2024
 
 **Today's Progress**: 
+
 - Codecademy: Continued working on the Off-Platform Project: Tea Cozy
 - Finished navbar - started working on hero image
 - freeCodeCamp: Finally completed the [Tribute Page - Ron Weasley](https://github.com/ornellion/tribute-page-ron-weasley)! 🎉
@@ -68,6 +70,23 @@ It's interesting how far I feel like I've come but also how much further I have 
 - freeCodeCamp: Started Learn More about CSS Pseudo Selectors by Building a Balance Sheet
 
 **Thoughts**:
+
 Returning to coding with the built-in text editor after living in VSCode for my projects can be such a shock! What do you mean I have to close my own tags?? 
 
 Building a Balance Sheet isn't the most exciting thing but I'm cementing knowledge I learned earlier on when it was covered in Codecademy. I'm also excited to get to the part of the pseudo selectors so I can start doing lots of snazzy things with my CSS. 
+
+---
+
+### Day 5: March 9, 2024
+
+**Today's Progress**: 
+- Codecademy: Decided to focus on completing the Off-Platform Project: Tea Cozy 🎉
+
+**Thoughts**:
+Some days I like to switch between learning and working on projects but today I wanted to get stuck into the project and see it through to the end. I think start to finish it would have only taken me around 4 hours. However doing 30 mins a day can end up feeling like I'm taking longer on something that's relatively easy. 
+
+It wasn't an _exact_ recreation but I stayed loyal to the design specification and it helped me understand why there are so many different techniques with web development. Where one thing doesn't work another one will but it might not work with something used later in the code. 
+
+I'm much more confident using Flexbox now and can't wait to get stuck into learning about CSS Grid! 
+
+**Link to work:** [Off-Platform Project: Tea Cozy](https://github.com/ornellion/codecademy-tea-cozy)
