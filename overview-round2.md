@@ -28,3 +28,7 @@ Took a 2-day break between days 2 & 3 for health reasons.
 
 ### R1D5 
 - Codecademy: Completed the [Off-Platform Project: Tea Cozy](https://github.com/ornellion/codecademy-tea-cozy) 🎉
+
+### R1D6 
+- Codecademy: Started Learn CSS: Grid Unit. Learning the basics of Grid 
+- freeCodeCamp: Continued Learn More about CSS Pseudo Selectors by Building a Balance Sheet
