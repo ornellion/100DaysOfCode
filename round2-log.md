@@ -83,6 +83,7 @@ Building a Balance Sheet isn't the most exciting thing but I'm cementing knowled
 - Codecademy: Decided to focus on completing the Off-Platform Project: Tea Cozy 🎉
 
 **Thoughts**:
+
 Some days I like to switch between learning and working on projects but today I wanted to get stuck into the project and see it through to the end. I think start to finish it would have only taken me around 4 hours. However doing 30 mins a day can end up feeling like I'm taking longer on something that's relatively easy. 
 
 It wasn't an _exact_ recreation but I stayed loyal to the design specification and it helped me understand why there are so many different techniques with web development. Where one thing doesn't work another one will but it might not work with something used later in the code. 
@@ -90,3 +91,17 @@ It wasn't an _exact_ recreation but I stayed loyal to the design specification a
 I'm much more confident using Flexbox now and can't wait to get stuck into learning about CSS Grid! 
 
 **Link to work:** [Off-Platform Project: Tea Cozy](https://github.com/ornellion/codecademy-tea-cozy)
+
+---
+
+### Day 6: March 10, 2024
+
+**Today's Progress**: 
+- Codecademy: Started Learn CSS: Grid Unit. Learning the basics of Grid 
+- freeCodeCamp: Continue Learn More about CSS Pseudo Selectors by Building a Balance Sheet
+
+**Thoughts**:
+
+Writing the HTML for the freeCodeCamp Balance Sheet has been thoroughly...unexciting. What's kept me going has been looking forward to what I'll learn about CSS. Combined with what I'm learning about CSS, I'm excited to making my projects even more responsive. And this is all without JavaScript! 
+
+I think taking yesterday to just focus on a project helped to remind me that this goes beyond a career switch. I enjoy learning and seeing my progressive progess ✨ 
