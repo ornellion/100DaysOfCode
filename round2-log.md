@@ -98,10 +98,22 @@ I'm much more confident using Flexbox now and can't wait to get stuck into learn
 
 **Today's Progress**: 
 - Codecademy: Started Learn CSS: Grid Unit. Learning the basics of Grid 
-- freeCodeCamp: Continue Learn More about CSS Pseudo Selectors by Building a Balance Sheet
+- freeCodeCamp: Continued Learn More about CSS Pseudo Selectors by Building a Balance Sheet
 
 **Thoughts**:
 
 Writing the HTML for the freeCodeCamp Balance Sheet has been thoroughly...unexciting. What's kept me going has been looking forward to what I'll learn about CSS. Combined with what I'm learning about CSS, I'm excited to making my projects even more responsive. And this is all without JavaScript! 
 
 I think taking yesterday to just focus on a project helped to remind me that this goes beyond a career switch. I enjoy learning and seeing my progressive progess ✨ 
+
+---
+
+### Day 7: March 11, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued Learn CSS: Grid Unit. Completed Grid Essentials  
+- freeCodeCamp: Continued Learn More about CSS Pseudo Selectors by Building a Balance Sheet (68% complete) 
+
+**Thoughts**:
+
+CSS Grid and pseudoselectors most definitely don't come naturally to me. I'm also slightly overwhelmed by the different ways there are to refacts CSS Grid statements. I suppose at the start my code will start of long and inefficient. Over time I hope refactoring to one line code will become instinctual!  
