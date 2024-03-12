@@ -35,4 +35,8 @@ Took a 2-day break between days 2 & 3 for health reasons.
 
 ### R1D7
 - Codecademy: Continued Learn CSS: Grid Unit. Completed Grid Essentials  
-- freeCodeCamp: Continued Learn More about CSS Pseudo Selectors by Building a Balance Sheet (68% complete) 
+- freeCodeCamp: Continued Learn More about CSS Pseudo Selectors by Building a Balance Sheet (68% complete)
+
+### R1D8 
+- Codecademy: Continued Learn CSS: Grid Unit. Advanced CSS Grid unit 
+- freeCodeCamp: Continued Learn More about CSS Pseudo Selectors by Building a Balance Sheet (92% complete) 
