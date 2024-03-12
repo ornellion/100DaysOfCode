@@ -116,4 +116,18 @@ I think taking yesterday to just focus on a project helped to remind me that thi
 
 **Thoughts**:
 
-CSS Grid and pseudoselectors most definitely don't come naturally to me. I'm also slightly overwhelmed by the different ways there are to refacts CSS Grid statements. I suppose at the start my code will start of long and inefficient. Over time I hope refactoring to one line code will become instinctual!  
+CSS Grid and pseudoselectors most definitely don't come naturally to me. I'm also slightly overwhelmed by the different ways there are to refactor CSS Grid statements. I suppose at the start my code will start of long and inefficient. Over time I hope refactoring to one line code will become instinctual!  
+
+---
+
+### Day 8: March 12, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued learning Advanced CSS Grid 
+- freeCodeCamp:Continued Learn More about CSS Pseudo Selectors by Building a Balance Sheet (92% complete) 
+
+**Thoughts**:
+
+Okay, CSS Grid may be confusing but it's also awesome! I can't wait to overuse it in my coming projects as I get to grips with it 😎 I'm particularly a fan of `grid-template-areas` property and think I'll be able to bring my layouts to life in a more responsive way. 
+
+CSS Selectors are also pretty cool but when I think it'll take me awhile to remember that I can use the `:nth-of-type()` pseudo-selectors to target specific elements. Why have short code when long code will do? (I'm sure I'll learn that along the way)
