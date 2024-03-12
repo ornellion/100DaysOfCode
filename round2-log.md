@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 50 Days Of Code - Log
 <!--
 Inspired by the original repo that I forked. I created my own so that the contribution could be counted.
 
