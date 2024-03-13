@@ -131,3 +131,18 @@ CSS Grid and pseudoselectors most definitely don't come naturally to me. I'm als
 Okay, CSS Grid may be confusing but it's also awesome! I can't wait to overuse it in my coming projects as I get to grips with it 😎 I'm particularly a fan of `grid-template-areas` property and think I'll be able to bring my layouts to life in a more responsive way. 
 
 CSS Selectors are also pretty cool but when I think it'll take me awhile to remember that I can use the `:nth-of-type()` pseudo-selectors to target specific elements. Why have short code when long code will do? (I'm sure I'll learn that along the way)
+
+---
+
+### Day 9: March 13, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed Advanced CSS Grid & Quiz 
+- freeCodeCamp: Finished Learn More about CSS Pseudo Selectors by Building a Balance Sheet 🎉
+- Started Learn Intermediate CSS by Building a Cat Painting.
+
+**Thoughts**:
+
+Why can I never remember how to set the HTML boilerplate? 😅 Since I use VSCode for my off-platform projects I rarely set it from scratch. CSS Grid has a _lot_ of properties to remember and I know I won't really get to grasp until I'm using it more regularly. I felt the same sort of overwhelm with CSS Flex but once I got the hang of it I enjoyed using it. 
+
+Not sure how I feel about `linear-gradient()` function though. I'm a little stumped if I'm honest... 
