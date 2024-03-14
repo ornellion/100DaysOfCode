@@ -8,40 +8,45 @@ Took a 2-day break between days 2 & 3 for health reasons.
 
 ## Log
 
-### R1D1 
+### R2D1 
 - Codecademy: Continued learning about Flexbox 
 - freeCodeCamp: Continued working on Certification Project: Tribute Page
 - It's passed to tests but I'm working on applying Flexbox and the visual aspects
 
-### R1D2
+### R2D2
 - Codecademy: Completed the Flexbox unit lesson and guided To Do App exercise
 - Started on the Off-Platform Project: Tea Cozy 
 - freeCodeCamp: Almost done with the Tribute Page! 
 
-### R1D3
+### R2D3
 - Codecademy: Continued working on the Off-Platform Project: Tea Cozy
 - freeCodeCamp: Finally completed the [Tribute Page - Ron Weasley](https://github.com/ornellion/tribute-page-ron-weasley)! 🎉
 
-### R1D4 
+### R2D4 
 - Codecademy: Continued working on the Off-Platform Project: Tea Cozy
 - freeCodeCamp: Started Learn More about CSS Pseudo Selectors by Building a Balance Sheet
 
-### R1D5 
+### R2D5 
 - Codecademy: Completed the [Off-Platform Project: Tea Cozy](https://github.com/ornellion/codecademy-tea-cozy) 🎉
 
-### R1D6 
+### R2D6 
 - Codecademy: Started Learn CSS: Grid Unit. Learning the basics of Grid 
 - freeCodeCamp: Continued Learn More about CSS Pseudo Selectors by Building a Balance Sheet
 
-### R1D7
+### R2D7
 - Codecademy: Continued Learn CSS: Grid Unit. Completed Grid Essentials  
 - freeCodeCamp: Continued Learn More about CSS Pseudo Selectors by Building a Balance Sheet (68% complete)
 
-### R1D8 
+### R2D8 
 - Codecademy: Continued Learn CSS: Grid Unit. Advanced CSS Grid unit 
 - freeCodeCamp: Continued Learn More about CSS Pseudo Selectors by Building a Balance Sheet (92% complete)
 
-### R1D9
+### R2D9
 - Codecademy: Completed Advanced CSS Grid & Quiz 
 - freeCodeCamp: Finished Learn More about CSS Pseudo Selectors by Building a Balance Sheet 🎉
 - Started Learn Intermediate CSS by Building a Cat Painting.
+
+### R2D10
+- Codecademy: Completed Advanced CSS Grid Practice Projects (Pup Spa, Task Grid)
+- Started Learn Responsive Design - Sizing Elements 
+- freeCodeCamp: Continued Learn Intermediate CSS by Building a Cat Painting (45% complete) 
