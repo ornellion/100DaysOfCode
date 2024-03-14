@@ -146,3 +146,17 @@ CSS Selectors are also pretty cool but when I think it'll take me awhile to reme
 Why can I never remember how to set the HTML boilerplate? 😅 Since I use VSCode for my off-platform projects I rarely set it from scratch. CSS Grid has a _lot_ of properties to remember and I know I won't really get to grasp until I'm using it more regularly. I felt the same sort of overwhelm with CSS Flex but once I got the hang of it I enjoyed using it. 
 
 Not sure how I feel about `linear-gradient()` function though. I'm a little stumped if I'm honest... 
+
+---
+
+### Day 10: March 14, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed Advanced CSS Grid Practice Projects (Pup Spa, Task Grid)
+- Started Learn Responsive Design - Sizing Elements 
+- freeCodeCamp: Continued Learn Intermediate CSS by Building a Cat Painting (45% complete) 
+
+**Thoughts**:
+I'm a little disappointed there wasn't an Off-Platform project that uses CSS Grid. I suppose there are two upcoming Challenge Projects that might allow me to flex my knowledge. It'll be useful to tackle them armed with more knowledge of sizing elements. At the moment I use just what works 😅 
+
+I'm 88% of the way with Web Development Foundations which on the one hand is testatement to how far I've come but this is only the first module! Combined with the freeCodeCamp certificate at least I'll have a solid foundation. 
