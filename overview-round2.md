@@ -50,3 +50,7 @@ Took a 2-day break between days 2 & 3 for health reasons.
 - Codecademy: Completed Advanced CSS Grid Practice Projects (Pup Spa, Task Grid)
 - Started Learn Responsive Design - Sizing Elements 
 - freeCodeCamp: Continued Learn Intermediate CSS by Building a Cat Painting (45% complete) 
+
+### R2D11 
+- Codecademy: Completed Learn Responsive Design - Sizing Elements 
+- freeCodeCamp: Continued Learn Intermediate CSS by Building a Cat Painting (73% complete)
