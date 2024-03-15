@@ -157,6 +157,19 @@ Not sure how I feel about `linear-gradient()` function though. I'm a little stum
 - freeCodeCamp: Continued Learn Intermediate CSS by Building a Cat Painting (45% complete) 
 
 **Thoughts**:
+
 I'm a little disappointed there wasn't an Off-Platform project that uses CSS Grid. I suppose there are two upcoming Challenge Projects that might allow me to flex my knowledge. It'll be useful to tackle them armed with more knowledge of sizing elements. At the moment I use just what works 😅 
 
 I'm 88% of the way with Web Development Foundations which on the one hand is testatement to how far I've come but this is only the first module! Combined with the freeCodeCamp certificate at least I'll have a solid foundation. 
+
+---
+
+### Day 11: March 15, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed Learn Responsive Design - Sizing Elements 
+- freeCodeCamp: Continued Learn Intermediate CSS by Building a Cat Painting (73% complete)
+
+**Thoughts**:
+
+I finally understand the difference between `em` and `rem` in responsive sizing! I had wondered what root element was being referred to... I also have some time off coming up so looking forward to spending more time coding than making an hour here and there 😁
