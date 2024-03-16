@@ -173,3 +173,20 @@ I'm 88% of the way with Web Development Foundations which on the one hand is tes
 **Thoughts**:
 
 I finally understand the difference between `em` and `rem` in responsive sizing! I had wondered what root element was being referred to... I also have some time off coming up so looking forward to spending more time coding than making an hour here and there 😁
+
+---
+
+### Day 12: March 16, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed Learn Responsive Design - Media Queries
+- Learned about Device Mode in [Chrome DevTools](https://developer.chrome.com/docs/devtools/device-mode)
+- Completed Project: Tsunami Coffee 
+- freeCodeCamp: Completed Learn Intermediate CSS by Building a Cat Painting 🎉
+- Started Learn Responsive Design by Building a Piano (40%)
+
+**Thoughts**:
+
+Media queries have come a long way since I first toyed with the idea of learning how to code! I remember feeling overwhelmed at the idea of setting breakpoints to match the multitude of devices out there. I'm glad that it's now being taught to set breakpoints according to where a project might naturally start breaking. The Device Mode in Chrome DevTool is handy not just for that but for taking screenshots of my projects moving forward! 👍
+
+I'm not feeling the freeCodeCamp projects at the moment but I can see how previous knowledge is being built upon with each one. Likle I didn't know it was possible to target all pseudo element to remove default values. I learn something new every time I sit in front of my laptop.
