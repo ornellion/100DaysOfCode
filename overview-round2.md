@@ -57,6 +57,11 @@ Took a 2-day break between days 2 & 3 for health reasons.
 - freeCodeCamp: Completed Learn Intermediate CSS by Building a Cat Painting 🎉
 - Started Learn Responsive Design by Building a Piano (40%)
 
-### R2D11 
+### R2D12 
 - Codecademy: Completed Learn Responsive Design - Sizing Elements 
 - freeCodeCamp: Continued Learn Intermediate CSS by Building a Cat Painting (73% complete)
+
+### R2D13 
+- Codecademy: Completed Documentation and Research & started Off-Platform Project: Fotomatic
+- freeCodeCamp: Completed Learn Responsive Design by Building a Piano 🎉
+- Started looking at User Stories for Technical Documentation Page Project 
