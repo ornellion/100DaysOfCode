@@ -190,3 +190,19 @@ I finally understand the difference between `em` and `rem` in responsive sizing!
 Media queries have come a long way since I first toyed with the idea of learning how to code! I remember feeling overwhelmed at the idea of setting breakpoints to match the multitude of devices out there. I'm glad that it's now being taught to set breakpoints according to where a project might naturally start breaking. The Device Mode in Chrome DevTool is handy not just for that but for taking screenshots of my projects moving forward! 👍
 
 I'm not feeling the freeCodeCamp projects at the moment but I can see how previous knowledge is being built upon with each one. Likle I didn't know it was possible to target all pseudo element to remove default values. I learn something new every time I sit in front of my laptop.
+
+---
+
+### Day 13: March 17, 2024 🍀
+
+**Today's Progress**: 
+- Codecademy: Completed Documentation and Research
+- Read the specification for Off-Platform Project: Fotomatic
+- freeCodeCamp: Completed Learn Responsive Design by Building a Piano 🎉
+- Started looking at User Stories for Technical Documentation Page Project 
+
+**Thoughts**:
+
+I'm not sure why I'm always so surprised that coding involves actual coding! 😅 I could have sworn I _just_ completed a project but here we are again. The Fotomatic one seems simple enough but then it's followed by two challenge projects to complete Codecademy __Web Development Foundations__ before the certification exams! 
+
+There are also only 4 more freeCodeCamp lessons and 2 projects after the Technical Documentation Page before I complete the __Responsive Web Design Certification__. JavaScript comes this way 🤓
