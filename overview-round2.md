@@ -64,4 +64,7 @@ Took a 2-day break between days 2 & 3 for health reasons.
 ### R2D13 
 - Codecademy: Completed Documentation and Research & started Off-Platform Project: Fotomatic
 - freeCodeCamp: Completed Learn Responsive Design by Building a Piano 🎉
-- Started looking at User Stories for Technical Documentation Page Project 
+- Started looking at User Stories for Technical Documentation Page Project
+
+### R2D14 
+- Codecademy: Started working on Off-Platform Project: Fotomatic
