@@ -206,3 +206,16 @@ I'm not feeling the freeCodeCamp projects at the moment but I can see how previo
 I'm not sure why I'm always so surprised that coding involves actual coding! 😅 I could have sworn I _just_ completed a project but here we are again. The Fotomatic one seems simple enough but then it's followed by two challenge projects to complete Codecademy __Web Development Foundations__ before the certification exams! 
 
 There are also only 4 more freeCodeCamp lessons and 2 projects after the Technical Documentation Page before I complete the __Responsive Web Design Certification__. JavaScript comes this way 🤓
+
+---
+
+### Day 14: March 18, 2024
+
+**Today's Progress**: 
+- Codecademy: Started working on Off-Platform Project: Fotomatic
+
+**Thoughts**:
+
+I decided to work on one project at a time and I'm not enjoying this or this particular project 🥲 
+
+The idea is to fix a broken responsive website from the code, design specs and the final product. My initial thoughts were to give up and move on to something different however I realise that it'll be rare that I get to build something from the ground up. It's more likely that I'll be given code that's not working and it's up to me to debug it and fix it. It took me 25 mins to work out it wasn't linked to the right stylesheet... 😅
