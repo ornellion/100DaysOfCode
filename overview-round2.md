@@ -68,3 +68,7 @@ Took a 2-day break between days 2 & 3 for health reasons.
 
 ### R2D14 
 - Codecademy: Started working on Off-Platform Project: Fotomatic
+
+### R2D15
+- Codecademy: Continued working on Off-Platform Project: Fotomatic.
+- Fixed the code for the website and now need to work on responsive design
