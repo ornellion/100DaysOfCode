@@ -232,3 +232,15 @@ The idea is to fix a broken responsive website from the code, design specs and t
 I thought this was going to be simple! 🙃 I thought it was going to be a case of spotting the mistakes in the CSS but it turned out there were errors in the HTML too, such as incorrect image locations. Once I started spotting the trends I kind of got into the flow. Now I need to make sure that the responsive design matches the design spec at the specific breakpoints... 
 
 I also learned of the importances of having a reset stylesheet to remove default styling! That also had me stumped for awhile. Thank goodness for the Chrome DevTools. I'm glad I didn't skip this project because I'm honestly learning more than I thought I would yesterday. 
+
+---
+
+### Day 16: March 20, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued working on Off-Platform Project: Fotomatic
+
+**Thoughts**:
+
+Why are media queries like this?? Progress is being made but at what cost? It took me 20 minutes to realise that a button can't display if there isn't actually one in the HTML 🙃 I'm sure there is a better process to doing this but as a lowly beginner it's very much a trial-and-error approach and currently erring closer to error. 
+
