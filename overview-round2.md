@@ -75,4 +75,9 @@ Took a 2-day break between days 2 & 3 for health reasons.
 
 ### R2D16
 - Codecademy: Continued working on Off-Platform Project: Fotomatic.
-- Had not fixed the HTML completely but progress is being made on the responsive end! 
+- Had not fixed the HTML completely but progress is being made on the responsive end!
+
+### R2D17
+- Codecademy: Finished working on [Off-Platform Project: Fotomatic](https://github.com/ornellion/codecademy-fotomatic) 🎉
+
+
