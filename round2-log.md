@@ -244,3 +244,17 @@ I also learned of the importances of having a reset stylesheet to remove default
 
 Why are media queries like this?? Progress is being made but at what cost? It took me 20 minutes to realise that a button can't display if there isn't actually one in the HTML 🙃 I'm sure there is a better process to doing this but as a lowly beginner it's very much a trial-and-error approach and currently erring closer to error. 
 
+---
+
+### Day 17: March 21, 2024
+
+**Today's Progress**: 
+- Codecademy: Finished working on [Off-Platform Project: Fotomatic](https://github.com/ornellion/codecademy-fotomatic) 🎉
+
+**Thoughts**:
+
+Fixed it! Well, close enough. And on this learning joruney close enough is good enough for me. 
+
+<img width="858" alt="Screenshot 2024-03-21 at 08 05 57" src="https://github.com/ornellion/100DaysOfCode/assets/155359289/5e501296-563c-468c-801c-9e1ea62f34be">
+
+I learned that reading someone else's code isn't that easy (and I imagine going back and reading your own code isn't either). Chrome DevTools is a life-send. Simple errors such as forgetting to declare the classes or not linking the stylesheets properly make a massive difference. I also need to follow a video on GitHub at some point as I'm not sure I know what I'm doing 🥲 
