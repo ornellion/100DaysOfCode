@@ -80,4 +80,8 @@ Took a 2-day break between days 2 & 3 for health reasons.
 ### R2D17
 - Codecademy: Finished working on [Off-Platform Project: Fotomatic](https://github.com/ornellion/codecademy-fotomatic) 🎉
 
+### R2D18 
+- Codecademy: Looked at goals & requirements for Challenge Project: Company Home Page with Flexbox
+- freeCodeCamp: Started on Build a Technical Documentation Page Project
+
 
