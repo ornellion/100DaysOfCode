@@ -258,3 +258,17 @@ Fixed it! Well, close enough. And on this learning joruney close enough is good 
 <img width="858" alt="Screenshot 2024-03-21 at 08 05 57" src="https://github.com/ornellion/100DaysOfCode/assets/155359289/5e501296-563c-468c-801c-9e1ea62f34be">
 
 I learned that reading someone else's code isn't that easy (and I imagine going back and reading your own code isn't either). Chrome DevTools is a life-send. Simple errors such as forgetting to declare the classes or not linking the stylesheets properly make a massive difference. I also need to follow a video on GitHub at some point as I'm not sure I know what I'm doing 🥲 
+
+---
+
+### Day 18: March 22, 2024
+
+**Today's Progress**: 
+- Codecademy: Took a look at the project goals & requirements for Challenge Project: Company Home Page with Flexbox
+- freeCodeCamp: Started on Build a Technical Documentation Page Project 
+
+**Thoughts**:
+
+More projects! Decided to return to working on two projects in tandem but have a more casual approach by coding on my laptop with CSI in the background. It makes more sense for my shorter coding sessions or when it feels like a chore or rather than a fun project I'm working on. 
+
+One of the hardest parts can be deciding on the subject matter though. The current Codecademy project is a Company Home Page and the next freeCodeCamp project is a Product Landing Page so I might link the two. Definitely gets the creativity going ✨
