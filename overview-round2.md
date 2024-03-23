@@ -84,4 +84,7 @@ Took a 2-day break between days 2 & 3 for health reasons.
 - Codecademy: Looked at goals & requirements for Challenge Project: Company Home Page with Flexbox
 - freeCodeCamp: Started on Build a Technical Documentation Page Project
 
+### R2D19 
+- freeCodeCamp: Continued working on Build a Technical Documentation Page Project
+
 
