@@ -272,3 +272,14 @@ I learned that reading someone else's code isn't that easy (and I imagine going 
 More projects! Decided to return to working on two projects in tandem but have a more casual approach by coding on my laptop with CSI in the background. It makes more sense for my shorter coding sessions or when it feels like a chore or rather than a fun project I'm working on. 
 
 One of the hardest parts can be deciding on the subject matter though. The current Codecademy project is a Company Home Page and the next freeCodeCamp project is a Product Landing Page so I might link the two. Definitely gets the creativity going ✨
+
+---
+
+### Day 19: March 23, 2024
+
+**Today's Progress**: 
+- freeCodeCamp: Continued working on Build a Technical Documentation Page Project 
+
+**Thoughts**:
+
+Adding content to the website is longer than expected. For something that's more content heavy I decided to work on the HTML before the CSS and then make it responsive. I have plenty of projects to work on and change my approach if there is a better way to do it. 
