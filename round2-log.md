@@ -283,3 +283,14 @@ One of the hardest parts can be deciding on the subject matter though. The curre
 **Thoughts**:
 
 Adding content to the website is longer than expected. For something that's more content heavy I decided to work on the HTML before the CSS and then make it responsive. I have plenty of projects to work on and change my approach if there is a better way to do it. 
+
+---
+
+### Day 20: March 24, 2024
+
+**Today's Progress**: 
+- freeCodeCamp: Continued working on Build a Technical Documentation Page Project 
+
+**Thoughts**:
+
+Passed 13/15 tests 🙌 It's insane how a simply typo can take 30 minutes to find... I think I prefer working on multiple projects in tandem but at the same time I make more progress working on one project at a time as I can build momentum. I suppose everything has its pros and cons. 
