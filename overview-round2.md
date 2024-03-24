@@ -87,4 +87,8 @@ Took a 2-day break between days 2 & 3 for health reasons.
 ### R2D19 
 - freeCodeCamp: Continued working on Build a Technical Documentation Page Project
 
+### R2D20 
+- freeCodeCamp: Continued working on Build a Technical Documentation Page Project
+- Passed 13/15 tests to complete the project 
+
 
