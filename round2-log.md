@@ -294,3 +294,18 @@ Adding content to the website is longer than expected. For something that's more
 **Thoughts**:
 
 Passed 13/15 tests 🙌 It's insane how a simply typo can take 30 minutes to find... I think I prefer working on multiple projects in tandem but at the same time I make more progress working on one project at a time as I can build momentum. I suppose everything has its pros and cons. 
+
+---
+
+### Day 21: March 25, 2024
+
+**Today's Progress**: 
+- freeCodeCamp: Completed the [Build a Technical Documentation Page Project](https://ornellion.github.io/technical-documentation-page/) 🎉
+
+**Thoughts**:
+
+After about 6 hours, the project passed the tests and is complete! 
+
+![Technical-Documentation-Screenshot1](https://github.com/ornellion/100DaysOfCode/assets/155359289/15060c72-c55a-48cd-9e3e-0de25f70c4d9)
+
+I think I do need to consider taking a course in styling as I can tell the colours aren't quite right overall - like there's perhaps too many colours or it doesn't flow right. I went with a dark scheme since I predominantly use Dark Mode but I also know that's not the case for everyone. Now on to the next project! 
