@@ -309,3 +309,16 @@ After about 6 hours, the project passed the tests and is complete!
 ![Technical-Documentation-Screenshot1](https://github.com/ornellion/100DaysOfCode/assets/155359289/15060c72-c55a-48cd-9e3e-0de25f70c4d9)
 
 I think I do need to consider taking a course in styling as I can tell the colours aren't quite right overall - like there's perhaps too many colours or it doesn't flow right. I went with a dark scheme since I predominantly use Dark Mode but I also know that's not the case for everyone. Now on to the next project! 
+
+---
+
+### Day 23: March 26, 2024
+
+**Today's Progress**: 
+- Codecademy: Started the Challenge Project: Company Home Page with Flexbox
+
+**Thoughts**:
+
+Can I just say that the hardest part of these projects is the design process! I have to pick the topic, design the page, pick the colour scheme and the fonts... And then actually code it 😅
+
+Using Canva was helpful to help give me a general idea of what I want the final results to look like as well as visualise what the fonts and the colours will ultimately look like. I even have the assets so onto coding next! 
