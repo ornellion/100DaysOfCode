@@ -93,3 +93,6 @@ Took a 2-day break between days 2 & 3 for health reasons.
 
 ### R2D21
 - freeCodeCamp: Completed the [Build a Technical Documentation Page Project](https://ornellion.github.io/technical-documentation-page/) 🎉
+
+### R2D22
+- Codecademy: Started the Challenge Project: Company Home Page with Flexbox
