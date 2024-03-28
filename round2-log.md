@@ -335,3 +335,16 @@ Using Canva was helpful to help give me a general idea of what I want the final 
 I wouldn't say I'm necessarily faster but I feel like things are clicking into place faster. I have a better idea of what I'm doing wrong and what I need to search for in order to get my CSS to look closer to my design. I hadn't realised that working to design specs has made it easier to code following my own design. 
 
 And even though this is a Flexbox challenge I can't help but think it would be easier to complete with CSS Grid... 
+
+---
+
+### Day 24: March 28, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued working on the Challenge Project: Company Home Page with Flexbox
+
+**Thoughts**:
+
+Ahhh I logged yesterday after midnight so it shows up as today's contribution 😅 I've made more progress with the Homepage. All the elements are there but it doesn't look quite right. Designing for desktop is actually harder than expected. There's more whitespace than on a tablet or a mobile and so creating a minimalist design that's still impactful is easier said than done. And with CSS it can sometimes be hard to understand why one rule works in one place and not in another. usally turns out that I'm not selecting the right class...
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFmN3JmbGY2ZDBlc28zZmptcm9weWpyNzByN242OHZ4ZDEzMmMwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13FrpeVH09Zrb2/giphy.gif)
