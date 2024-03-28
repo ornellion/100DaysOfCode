@@ -322,3 +322,16 @@ I think I do need to consider taking a course in styling as I can tell the colou
 Can I just say that the hardest part of these projects is the design process! I have to pick the topic, design the page, pick the colour scheme and the fonts... And then actually code it 😅
 
 Using Canva was helpful to help give me a general idea of what I want the final results to look like as well as visualise what the fonts and the colours will ultimately look like. I even have the assets so onto coding next! 
+
+---
+
+### Day 24: March 27, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued working on the Challenge Project: Company Home Page with Flexbox
+
+**Thoughts**:
+
+I wouldn't say I'm necessarily faster but I feel like things are clicking into place faster. I have a better idea of what I'm doing wrong and what I need to search for in order to get my CSS to look closer to my design. I hadn't realised that working to design specs has made it easier to code following my own design. 
+
+And even though this is a Flexbox challenge I can't help but think it would be easier to complete with CSS Grid... 
