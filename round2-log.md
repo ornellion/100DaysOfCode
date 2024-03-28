@@ -312,7 +312,7 @@ I think I do need to consider taking a course in styling as I can tell the colou
 
 ---
 
-### Day 23: March 26, 2024
+### Day 22: March 26, 2024
 
 **Today's Progress**: 
 - Codecademy: Started the Challenge Project: Company Home Page with Flexbox
@@ -325,7 +325,7 @@ Using Canva was helpful to help give me a general idea of what I want the final 
 
 ---
 
-### Day 24: March 27, 2024
+### Day 23: March 27, 2024
 
 **Today's Progress**: 
 - Codecademy: Continued working on the Challenge Project: Company Home Page with Flexbox
