@@ -348,3 +348,16 @@ And even though this is a Flexbox challenge I can't help but think it would be e
 Ahhh I logged yesterday after midnight so it shows up as today's contribution 😅 I've made more progress with the Homepage. All the elements are there but it doesn't look quite right. Designing for desktop is actually harder than expected. There's more whitespace than on a tablet or a mobile and so creating a minimalist design that's still impactful is easier said than done. And with CSS it can sometimes be hard to understand why one rule works in one place and not in another. usally turns out that I'm not selecting the right class...
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFmN3JmbGY2ZDBlc28zZmptcm9weWpyNzByN242OHZ4ZDEzMmMwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13FrpeVH09Zrb2/giphy.gif)
+
+---
+
+### Day 25: March 29, 2024
+
+**Today's Progress**: 
+- Codecademy: Continued working on the Challenge Project: Company Home Page with Flexbox
+
+**Thoughts**:
+
+My current issue is that the page only looks good at around tablet size (768px) 🥲 Any bigger than 1290px and it doesn't look right, which I can only spot when working on my monitor otherwise I'm under the impression that it works. That said, the example site has the same sort of issue as if that's possibly an inherent limitation of using Flexbox... 🤔 
+
+I've decided I'm going to stick to 3 sizes: laptop, tablet and mobile and use media queries to change around the design appropriately. However I can also see myself spending way too much time on this if I'm not careful. It's 100% the little details that take the most time. Once you change one thing, it impacts everything else. Thank goodness for Chrome DevTools. I definitely need to use it more but when I forget what changes I've made it's hard to then and change it in the actual document... 
