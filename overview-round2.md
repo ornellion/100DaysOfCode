@@ -102,3 +102,6 @@ Took a 2-day break between days 2 & 3 for health reasons.
 
 ### R2D24
 - Codecademy: Continued working on the Challenge Project: Company Home Page with Flexbox
+
+### R2D25
+- Codecademy: Continued working on the Challenge Project: Company Home Page with Flexbox
