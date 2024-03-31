@@ -4,7 +4,8 @@ This the log of my #50DaysOfCode challenge. Started on **March 3, 2024**.
 
 A more detailed log can be found [here](round2-log.md). 
 
-Took a 2-day break between days 2 & 3 for health reasons. 
+- Took a 2-day break between days 2 & 3 for health reasons. 
+- Took a 1-day break between days 25 & 26 for social reasons. 
 
 ## Log
 
@@ -105,3 +106,6 @@ Took a 2-day break between days 2 & 3 for health reasons.
 
 ### R2D25
 - Codecademy: Continued working on the Challenge Project: Company Home Page with Flexbox
+
+### R2D26
+- Codecademy: Finished working on the [Challenge Project: Company Home Page with Flexbox](https://ornellion.github.io/company-homepage-flexbox/) 🎉
