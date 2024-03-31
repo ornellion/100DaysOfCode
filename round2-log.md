@@ -361,3 +361,21 @@ Ahhh I logged yesterday after midnight so it shows up as today's contribution �
 My current issue is that the page only looks good at around tablet size (768px) 🥲 Any bigger than 1290px and it doesn't look right, which I can only spot when working on my monitor otherwise I'm under the impression that it works. That said, the example site has the same sort of issue as if that's possibly an inherent limitation of using Flexbox... 🤔 
 
 I've decided I'm going to stick to 3 sizes: laptop, tablet and mobile and use media queries to change around the design appropriately. However I can also see myself spending way too much time on this if I'm not careful. It's 100% the little details that take the most time. Once you change one thing, it impacts everything else. Thank goodness for Chrome DevTools. I definitely need to use it more but when I forget what changes I've made it's hard to then and change it in the actual document... 
+
+---
+
+### Day 26: March 31, 2024 🎀
+
+**Today's Progress**:
+
+- Codecademy: Finished working on the [Challenge Project: Company Home Page with Flexbox](https://ornellion.github.io/company-homepage-flexbox/) 🎉
+
+**Thoughts**:
+
+Finally finished the Challenge Project! I think one of the biggest takeaways that resizing images is a nightmare and it might be easier to already have the assets at the size that I want them rather than trying to make them responsive by code 😅 There are still some elements that didn't look quite like how I want them but I was able to put everything I've learned about Flexbox into practice, and done is always better than perfect 🙌
+
+![Screenshot 2024-03-31 at 19 20 23](https://github.com/ornellion/100DaysOfCode/assets/155359289/912e45e9-ee9e-413b-8372-54bc4c4143be)
+
+Onto the final Codecademy project **for the Responsive Web Design unit** before the certification exams! 
+
+
