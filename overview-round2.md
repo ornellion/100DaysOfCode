@@ -109,3 +109,6 @@ A more detailed log can be found [here](round2-log.md).
 
 ### R2D26
 - Codecademy: Finished working on the [Challenge Project: Company Home Page with Flexbox](https://ornellion.github.io/company-homepage-flexbox/) 🎉
+
+### R2D27
+- Codecademy: Started working on the Challenge Project: Responsive Club Website 
