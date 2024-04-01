@@ -367,7 +367,6 @@ I've decided I'm going to stick to 3 sizes: laptop, tablet and mobile and use me
 ### Day 26: March 31, 2024 🎀
 
 **Today's Progress**:
-
 - Codecademy: Finished working on the [Challenge Project: Company Home Page with Flexbox](https://ornellion.github.io/company-homepage-flexbox/) 🎉
 
 **Thoughts**:
@@ -378,4 +377,13 @@ Finally finished the Challenge Project! I think one of the biggest takeaways tha
 
 Onto the final Codecademy project **for the Responsive Web Design unit** before the certification exams! 
 
+---
 
+### Day 27: April 1, 2024 
+
+**Today's Progress**:
+- Codecademy: Started working on the Challenge Project: Responsive Club Website 
+
+**Thoughts**:
+
+Another day, another project design. Deciding on the project isn't taking as long as it used to at least, especially since I've desiged style guides and now have favourite fonts 😅 I think I'm going to use CSS Grid for this project even if it relatively simple as I've predominantly used Flex and want to have some practice using Grid. 
