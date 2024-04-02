@@ -112,3 +112,6 @@ A more detailed log can be found [here](round2-log.md).
 
 ### R2D27
 - Codecademy: Started working on the Challenge Project: Responsive Club Website 
+
+### R2D28
+- Codecademy: Continued working on the Challenge Project: Responsive Club Website 
