@@ -386,4 +386,17 @@ Onto the final Codecademy project **for the Responsive Web Design unit** before 
 
 **Thoughts**:
 
-Another day, another project design. Deciding on the project isn't taking as long as it used to at least, especially since I've desiged style guides and now have favourite fonts 😅 I think I'm going to use CSS Grid for this project even if it relatively simple as I've predominantly used Flex and want to have some practice using Grid. 
+Another day, another project design. Deciding on the project elements isn't taking as long as it used to at least, especially since I've desiged style guides and now have favourite fonts 😅 I think I'm going to use CSS Grid for this project even if it relatively simple as I've predominantly used Flex and want to have some practice using Grid. 
+
+---
+
+### Day 28: April 2, 2024 
+
+**Today's Progress**:
+- Codecademy: Continued working on the Challenge Project: Responsive Club Website 
+
+**Thoughts**:
+
+Using CSS Grid is a little confusing but it feels easier to make things responsive as well as providing more overall control to the way things are laid out on the page. Media queries are also going from being a project requirement to being one of my favourite tools. I have the idea of a mobile-first approach in mind, but since I'm usually coding on a desktop/laptop it feels more intuitive to code that first before coding the mobile. 
+
+I still have to Google pretty much everything but I'm happy to find what I'm looking for faster and my bookmarks grow every day! 
