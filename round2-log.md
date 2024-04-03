@@ -400,3 +400,19 @@ Another day, another project design. Deciding on the project elements isn't taki
 Using CSS Grid is a little confusing but it feels easier to make things responsive as well as providing more overall control to the way things are laid out on the page. Media queries are also going from being a project requirement to being one of my favourite tools. I have the idea of a mobile-first approach in mind, but since I'm usually coding on a desktop/laptop it feels more intuitive to code that first before coding the mobile. 
 
 I still have to Google pretty much everything but I'm happy to find what I'm looking for faster and my bookmarks grow every day! 
+
+---
+
+### Day 29: April 3, 2024 
+
+**Today's Progress**:
+- Codecademy: Finished working on the [Challenge Project: Responsive Club Website](https://ornellion.github.io/responsive-club-website/)
+- Completed **Web Development Foundations** courses - still have 2 examinations to obtain the certificate 
+
+**Thoughts**:
+
+A simple website is easy (and fast) to code!
+
+![screenshot](https://github.com/ornellion/100DaysOfCode/assets/155359289/bfb57a3d-8871-4881-9384-376882dbb45b)
+
+With that, that's the Codecademy **Web Development Foundations** courses completed! Now I have 2 objective examinations to complete in order to get the certification. I also have 4 courses and 2 projects to complete in order to get the freeCodeCamp Responsive Web Design Certification Project 💃 
