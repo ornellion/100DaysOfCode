@@ -115,3 +115,7 @@ A more detailed log can be found [here](round2-log.md).
 
 ### R2D28
 - Codecademy: Continued working on the Challenge Project: Responsive Club Website 
+
+### R2D29
+- Codecademy: Finished working on the [Challenge Project: Responsive Club Website](https://ornellion.github.io/responsive-club-website/) 🎉
+- Completed **Web Development Foundations** courses - still have 2 examinations to obtain the certificate 🙌
