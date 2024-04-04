@@ -119,3 +119,8 @@ A more detailed log can be found [here](round2-log.md).
 ### R2D29
 - Codecademy: Finished working on the [Challenge Project: Responsive Club Website](https://ornellion.github.io/responsive-club-website/) 🎉
 - Completed **Web Development Foundations** courses - still have 2 examinations to obtain the certificate 🙌
+
+### R2D30 
+- Codecademy: Completed **Web Development Foundations** Certification Exams - 96% and 100% pass mark for the two exams! 🎊
+- Started **Introduction: JavaScript Syntax, Part I** Unit. Currently on the Introduction to JS.  
+- freeCodeCamp: Started **Learn CSS Variables by Building a City Skyline** course. (75/118 completed)
