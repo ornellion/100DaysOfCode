@@ -2,7 +2,7 @@
 <!--
 Inspired by the original repo that I forked. I created my own so that the contribution could be counted.
 
-### Day [X]: March X, 2024
+### Day [X]: April X, 2024
 
 **Today's Progress**: 
 - Codecademy:
@@ -416,3 +416,20 @@ A simple website is easy (and fast) to code!
 ![screenshot](https://github.com/ornellion/100DaysOfCode/assets/155359289/bfb57a3d-8871-4881-9384-376882dbb45b)
 
 With that, that's the Codecademy **Web Development Foundations** courses completed! Now I have 2 objective examinations to complete in order to get the certification. I also have 4 courses and 2 projects to complete in order to get the freeCodeCamp Responsive Web Design Certification Project 💃 
+
+---
+
+### Day 30: April 4, 2024
+
+**Today's Progress**: 
+- Codecademy: Completed **Web Development Foundations** Certification Exams - 96% and 100% pass mark for the two exams! 🎊
+- Started **Introduction: JavaScript Syntax, Part I** Unit. Currently on the Introduction to JS.  
+- freeCodeCamp: Started **Learn CSS Variables by Building a City Skyline** course. (75/118 completed) 
+
+**Thoughts**:
+
+I decided that I would started learning about JavaScript on CodeCademy while I continue completing the freeCodeCamp Responsive Web Design Certification. On the one hand I am doubling up on material which means it's taking a little longer to complete. On the other hand, CodeCademy didn't cover things like CSS Variables which I'm grateful to have a working knowledge of. 
+
+I've also found that Codecademy provides a higher level understanding of the material which makes it easier for me to connect the different concepts together wherease the freeCodeCamp exercises are repetitive and I end up picking up things because I'm doing them over and over again. 
+
+There's a benefit to building a strong foundation and I need to remember that when I feel like sprinting ahead 🏃‍♀️
