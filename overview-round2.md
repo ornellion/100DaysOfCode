@@ -124,3 +124,7 @@ A more detailed log can be found [here](round2-log.md).
 - Codecademy: Completed **Web Development Foundations** Certification Exams - 96% and 100% pass mark for the two exams! 🎊
 - Started **Introduction: JavaScript Syntax, Part I** Unit. Currently on the Introduction to JS.  
 - freeCodeCamp: Started **Learn CSS Variables by Building a City Skyline** course. (75/118 completed)
+
+### R2D31 
+- Codecademy: Continued with **Introduction: JavaScript Syntax, Part I** Unit. Currently learning about Variables.  
+- freeCodeCamp: Continued **Learn CSS Variables by Building a City Skyline** course. (103/118 completed) 
