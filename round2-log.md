@@ -428,8 +428,23 @@ With that, that's the Codecademy **Web Development Foundations** courses complet
 
 **Thoughts**:
 
-I decided that I would started learning about JavaScript on CodeCademy while I continue completing the freeCodeCamp Responsive Web Design Certification. On the one hand I am doubling up on material which means it's taking a little longer to complete. On the other hand, CodeCademy didn't cover things like CSS Variables which I'm grateful to have a working knowledge of. 
+I decided that I would started learning about JavaScript on CodeCademy while I continue completing the freeCodeCamp Responsive Web Design Certification. On the one hand I am doubling up on material which means it's taking a little longer to complete. On the other hand, CodeCademy didn't cover things like CSS Variables which I'm grateful to now have a working knowledge of. 
 
 I've also found that Codecademy provides a higher level understanding of the material which makes it easier for me to connect the different concepts together wherease the freeCodeCamp exercises are repetitive and I end up picking up things because I'm doing them over and over again. 
 
 There's a benefit to building a strong foundation and I need to remember that when I feel like sprinting ahead 🏃‍♀️
+
+---
+
+### Day 31: April 5, 2024
+
+**Today's Progress**: 
+
+- Continued with **Introduction: JavaScript Syntax, Part I** Unit. Currently learning about Variables.  
+- freeCodeCamp: Continued **Learn CSS Variables by Building a City Skyline** course. (103/118 completed) 
+
+**Thoughts**:
+
+I'm glad to find that I was right that learning Python first would make JavaScript feel less intimidating. `console.log()` works in a similar way to `print()` in Python. I have a foundation for learning JS that I wouldn't have if I was discovering it for the first time after HTML/CSS. It's something I had struggled with before. 
+
+It's also interesting to see how variables are used in CSS while learning how they're used in JS. It brings it all nicely together 😊
