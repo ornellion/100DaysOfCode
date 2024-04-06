@@ -448,3 +448,18 @@ There's a benefit to building a strong foundation and I need to remember that wh
 I'm glad to find that I was right that learning Python first would make JavaScript feel less intimidating. `console.log()` works in a similar way to `print()` in Python. I have a foundation for learning JS that I wouldn't have if I was discovering it for the first time after HTML/CSS. It's something I had struggled with before. 
 
 It's also interesting to see how variables are used in CSS while learning how they're used in JS. It brings it all nicely together 😊
+
+---
+
+### Day 32: April 6, 2024
+
+**Today's Progress**: 
+
+- Continued with **Introduction: JavaScript Syntax, Part I** Unit. Continued learning about Variables.  
+- freeCodeCamp: Completed **Learn CSS Variables by Building a City Skyline** course 🎉
+
+**Thoughts**:
+
+In a way going through the basics of JavaScript syntax is helping to make sense of things that had previously confused me when learning Python. I didn't really understand string interpolation before but it makes sense now. I think it'll take me awhile to learn the difference between using `const` and `let` but all good things come with time and practice! 
+
+I also learned more than I expected with the CSS Variables course. Now onto a refresher of CSS Grid! 
