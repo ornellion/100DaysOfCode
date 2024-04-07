@@ -463,3 +463,16 @@ It's also interesting to see how variables are used in CSS while learning how th
 In a way going through the basics of JavaScript syntax is helping to make sense of things that had previously confused me when learning Python. I didn't really understand string interpolation before but it makes sense now. I think it'll take me awhile to learn the difference between using `const` and `let` but all good things come with time and practice! 
 
 I also learned more than I expected with the CSS Variables course. Now onto a refresher of CSS Grid! 
+
+---
+
+### Day 33: April 7, 2024
+
+**Today's Progress**: 
+
+- Continued with **Introduction: JavaScript Syntax, Part I** Unit. Started learning about Conditionals.  
+- freeCodeCamp: Started **Learn CSS Grid by Building a Magazine** course (25% completed) 
+
+**Thoughts**:
+
+It seems converting Kelvin to Celsius and human years into dog years are common projects to understand how variables work 😅 I'm pretty sure I did something similar when I was learning Python on the Codecademy platform! Continuing with CSS Grid feels a bit like a step back when I want to get stuck into JS buuut there are little practical tips that you get from freeCodeCamp. And the continual exercises mean that I feel like I'm continuing to code as opposed to simply reading about the theory... 
