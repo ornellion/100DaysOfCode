@@ -134,6 +134,9 @@ A more detailed log can be found [here](round2-log.md).
 - freeCodeCamp: Completed **Learn CSS Variables by Building a City Skyline** course 🎉
 
 ### R2D33
-- Continued with **Introduction: JavaScript Syntax, Part I** Unit. Started learning about Conditionals.  
+- Continued with **Introduction: JavaScript Syntax, Part I** Unit. Started learning about Conditionals.
 - freeCodeCamp: Started **Learn CSS Grid by Building a Magazine** course (25% completed) 
 
+### R2D34
+- Continued with **Introduction: JavaScript Syntax, Part I** Unit. Continued learning about Conditionals. 
+- freeCodeCamp: Started **Learn CSS Grid by Building a Magazine** course (64% completed) 
