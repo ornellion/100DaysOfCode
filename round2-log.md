@@ -476,3 +476,16 @@ I also learned more than I expected with the CSS Variables course. Now onto a re
 **Thoughts**:
 
 It seems converting Kelvin to Celsius and human years into dog years are common projects to understand how variables work 😅 I'm pretty sure I did something similar when I was learning Python on the Codecademy platform! Continuing with CSS Grid feels a bit like a step back when I want to get stuck into JS buuut there are little practical tips that you get from freeCodeCamp. And the continual exercises mean that I feel like I'm continuing to code as opposed to simply reading about the theory... 
+
+---
+
+### Day 34: April 8, 2024
+
+**Today's Progress**: 
+
+- Continued with **Introduction: JavaScript Syntax, Part I** Unit. Continued learning about Conditionals.
+- freeCodeCamp: Started **Learn CSS Grid by Building a Magazine** course (64% completed) 
+
+**Thoughts**:
+
+I did not expect to come across the terms *Truthy* and *Falsy* in my JavaScript journey but here we are 😅 It's nice that I already have a foundation but am learning the differences specific to JS, like using `&&` instead of `and` for the logical operator. I also like having a practical step-by-step example of how CSS Grid is used. It's similar to Flexbox but also very different and there were some subtle differences I hadn't noticed until now. 
