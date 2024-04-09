@@ -489,3 +489,18 @@ It seems converting Kelvin to Celsius and human years into dog years are common 
 **Thoughts**:
 
 I did not expect to come across the terms *Truthy* and *Falsy* in my JavaScript journey but here we are 😅 It's nice that I already have a foundation but am learning the differences specific to JS, like using `&&` instead of `and` for the logical operator. I also like having a practical step-by-step example of how CSS Grid is used. It's similar to Flexbox but also very different and there were some subtle differences I hadn't noticed until now. 
+
+---
+
+### Day 35: April 9, 2024
+
+**Today's Progress**: 
+
+- Continued with **Introduction: JavaScript Syntax, Part I** Unit. Started Magic 8 Ball Project.
+- freeCodeCamp: Completed **Learn CSS Grid by Building a Magazine** course 🎉
+
+**Thoughts**:
+
+There are little things in JavaScript that I hope I end up continuing to do like refactoring `if...else` statements using ternary operators or using the switch keyword instead. It's only the basics but so far I'm enjoying JavaScript far more than I did when I tried to learn to code for the first time almost a decade ago. 
+
+I'm also learning little CSS tricks like the `column-width` property. Where were you when I needed you? 🥲
