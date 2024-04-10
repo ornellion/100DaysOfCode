@@ -504,3 +504,18 @@ I did not expect to come across the terms *Truthy* and *Falsy* in my JavaScript 
 There are little things in JavaScript that I hope I end up continuing to do like refactoring `if...else` statements using ternary operators or using the switch keyword instead. It's only the basics but so far I'm enjoying JavaScript far more than I did when I tried to learn to code for the first time almost a decade ago. 
 
 I'm also learning little CSS tricks like the `column-width` property. Where were you when I needed you? 🥲
+
+---
+
+### Day 36: April 10, 2024
+
+**Today's Progress**: 
+
+- Continued with **Introduction: JavaScript Syntax, Part I** Unit. Completed Magic 8 Ball Project.
+- freeCodeCamp: Completed **Learn CSS Animation by Building a Ferris Wheel** course 🎉
+
+**Thoughts**:
+
+The Magic 8 Ball is simple enough - decided to take some time to make sure that I could complete it using both `if/else if/else` and `switch` statements. Took me a little while to grasp the logic rather than referring blindly to previous examples. I'm slowly beginning to Codecademy using AI Hints - it's more interactive but sometimes it's also just...wrong 
+
+Also completed the quick freeCodeCamp course on CSS Animation. I don't see (right now) what I'll be animating but who knows. Maybe I'll find creating CSS art a fun hobby! 
