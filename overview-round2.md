@@ -144,3 +144,7 @@ A more detailed log can be found [here](round2-log.md).
 ### R2D35
 - Continued with Introduction: JavaScript Syntax, Part I Unit. Started Magic 8 Ball Project.
 - freeCodeCamp: Completed **Learn CSS Grid by Building a Magazine** course 🎉
+
+### R2D36
+- Continued with **Introduction: JavaScript Syntax, Part I** Unit. Completed Magic 8 Ball Project.
+- freeCodeCamp: Completed **Learn CSS Animation by Building a Ferris Wheel** course 🎉
