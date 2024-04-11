@@ -519,3 +519,17 @@ I'm also learning little CSS tricks like the `column-width` property. Where were
 The Magic 8 Ball is simple enough - decided to take some time to make sure that I could complete it using both `if/else if/else` and `switch` statements. Took me a little while to grasp the logic rather than referring blindly to previous examples. I'm slowly beginning to Codecademy using AI Hints - it's more interactive but sometimes it's also just...wrong 
 
 Also completed the quick freeCodeCamp course on CSS Animation. I don't see (right now) what I'll be animating but who knows. Maybe I'll find creating CSS art a fun hobby! 
+
+---
+
+### Day 37: April 11, 2024
+
+**Today's Progress**: 
+
+- Continued with **Introduction: JavaScript Syntax, Part I** Unit. Completed Race Day project.
+- Started learning about Functions
+- freeCodeCamp: Started **Learn CSS Transforms by Building a Penguin** course (29% completed)
+
+**Thoughts**:
+
+Oh functions, how I missed you so! 🥲 All my Python knowledge is coming back, even if it's tripping me up a little when it comes to syntax. There are subtle but important nuances. Also started the final course for the freeCodeCamp Responsive Web Design Certification 🙌 I've come this far it makes sense to complete the final two project and gain the certification! That way both of the resources will be going through JavaScript! 
