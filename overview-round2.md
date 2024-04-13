@@ -156,3 +156,6 @@ A more detailed log can be found [here](round2-log.md).
 ### R2D38
 - freeCodeCamp: Completed **Learn CSS Transforms by Building a Penguin** course 🎉
 - Started **Build a Product Landing Page** project 
+
+### R2D39
+- freeCodeCamp: Completed the **[Build a Product Landing Page](https://github.com/ornellion/freecodecamp-product-landing-page)** project 🎉
