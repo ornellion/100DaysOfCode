@@ -130,25 +130,29 @@ A more detailed log can be found [here](round2-log.md).
 - freeCodeCamp: Continued Learn CSS Variables by Building a City Skyline course. (103/118 completed) 
 
 ### R2D32
-- Continued with Introduction: JavaScript Syntax, Part I Unit. Continued learning about Variables.  
+- CodeCademy: Continued with Introduction: JavaScript Syntax, Part I Unit. Continued learning about Variables.  
 - freeCodeCamp: Completed **Learn CSS Variables by Building a City Skyline** course 🎉
 
 ### R2D33
-- Continued with Introduction: JavaScript Syntax, Part I Unit. Started learning about Conditionals.
+- CodeCademy: Continued with Introduction: JavaScript Syntax, Part I Unit. Started learning about Conditionals.
 - freeCodeCamp: Started **Learn CSS Grid by Building a Magazine** course (25% completed) 
 
 ### R2D34
-- Continued with Introduction: JavaScript Syntax, Part I** Unit. Continued learning about Conditionals. 
+- CodeCademy: Continued with Introduction: JavaScript Syntax, Part I** Unit. Continued learning about Conditionals. 
 - freeCodeCamp: Continued with Learn CSS Grid by Building a Magazine course (64% completed) 
 
 ### R2D35
-- Continued with Introduction: JavaScript Syntax, Part I Unit. Started Magic 8 Ball Project.
+- CodeCademy: Continued with Introduction: JavaScript Syntax, Part I Unit. Started Magic 8 Ball Project.
 - freeCodeCamp: Completed **Learn CSS Grid by Building a Magazine** course 🎉
 
 ### R2D36
-- Continued with Introduction: JavaScript Syntax, Part I Unit. Completed Magic 8 Ball Project.
+- CodeCademy: Continued with Introduction: JavaScript Syntax, Part I Unit. Completed Magic 8 Ball Project.
 - freeCodeCamp: Completed **Learn CSS Animation by Building a Ferris Wheel** course 🎉
 
 ### R2D37
-- Continued with Introduction: JavaScript Syntax, Part I Unit. Started learning about Functions
+- CodeCademy: Continued with Introduction: JavaScript Syntax, Part I Unit. Started learning about Functions
 - freeCodeCamp: Started **Learn CSS Transforms by Building a Penguin** course (29% completed)
+
+### R2D38
+- freeCodeCamp: Completed **Learn CSS Transforms by Building a Penguin** course 🎉
+- Started **Build a Product Landing Page** project 
