@@ -532,4 +532,17 @@ Also completed the quick freeCodeCamp course on CSS Animation. I don't see (righ
 
 **Thoughts**:
 
-Oh functions, how I missed you so! 🥲 All my Python knowledge is coming back, even if it's tripping me up a little when it comes to syntax. There are subtle but important nuances. Also started the final course for the freeCodeCamp Responsive Web Design Certification 🙌 I've come this far it makes sense to complete the final two project and gain the certification! That way both of the resources will be going through JavaScript! 
+Oh functions, how I missed you so! 🥲 All my Python knowledge is coming back, even if it's tripping me up a little when it comes to syntax. There are subtle but important nuances. Also started the final course for the freeCodeCamp Responsive Web Design Certification 🙌 I've come this far it makes sense to complete the final two projects and gain the certification! That way both of the resources will be going through JavaScript! 
+
+---
+
+### Day 38: April 12, 2024
+
+**Today's Progress**: 
+
+- freeCodeCamp: Completed **Learn CSS Transforms by Building a Penguin** course 🎉
+- Started **Build a Product Landing Page** project 
+
+**Thoughts**:
+
+Made progress with completing the freeCodeCamp certification. As always, coming up with the idea and design is always the hardest part of it. And I would have thought that over 3 months in now creating a fixed navigation bar would come more naturally! 😅 I'm looking forward to my projects having more interactivity through JavaScript and learning about all the libraries we have access to! I feel like I've leanred a lot but barely scratched the surgace. 
