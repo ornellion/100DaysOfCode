@@ -546,3 +546,20 @@ Oh functions, how I missed you so! 🥲 All my Python knowledge is coming back, 
 **Thoughts**:
 
 Made progress with completing the freeCodeCamp certification. As always, coming up with the idea and design is always the hardest part of it. And I would have thought that over 3 months in now creating a fixed navigation bar would come more naturally! 😅 I'm looking forward to my projects having more interactivity through JavaScript and learning about all the libraries we have access to! I feel like I've leanred a lot but barely scratched the surgace. 
+
+---
+
+### Day 39: April 13, 2024
+
+**Today's Progress**: 
+
+- freeCodeCamp: Completed the **[Build a Product Landing Page](https://github.com/ornellion/freecodecamp-product-landing-page)** project 🎉
+
+
+**Thoughts**:
+
+Created the most basic of sites to pass the tests as I'd run out of creativity 😅
+
+<img width="624" alt="Screenshot 2024-04-13 at 23 34 41" src="https://github.com/ornellion/100DaysOfCode/assets/155359289/1e0d29a6-854f-4147-bd8b-3ae5e91982a0">
+
+Currently potentially having an issue with linking the stylesheet on GitHub but that is a problem for another day... Just one more project to go! 
