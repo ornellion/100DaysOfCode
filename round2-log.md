@@ -563,3 +563,15 @@ Created the most basic of sites to pass the tests as I'd run out of creativity ð
 <img width="624" alt="Screenshot 2024-04-13 at 23 34 41" src="https://github.com/ornellion/100DaysOfCode/assets/155359289/1e0d29a6-854f-4147-bd8b-3ae5e91982a0">
 
 Currently potentially having an issue with linking the stylesheet on GitHub but that is a problem for another day... Just one more project to go! 
+
+---
+
+### Day 40: April 14, 2024
+
+**Today's Progress**: 
+
+- freeCodeCamp: Started the **Personal Portfolio Webpage** Project 
+
+**Thoughts**:
+
+Finally onto the final project for the freeCodeCamp certification! I've come so far - 40 days of (almost) daily coding is something to be proud of and it's really become part of my regular routine. I'm currently designing my portfolio in Canva as I've found it's easier to build to a design spec rather than trying to figure things as I go. I'm also often far more hapy with the finished product as a result. 
