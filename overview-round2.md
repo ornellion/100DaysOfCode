@@ -159,3 +159,6 @@ A more detailed log can be found [here](round2-log.md).
 
 ### R2D39
 - freeCodeCamp: Completed the **[Build a Product Landing Page](https://github.com/ornellion/freecodecamp-product-landing-page)** project 🎉
+
+### R2D40
+- freeCodeCamp: Started the **Personal Portfolio Webpage** Project 
