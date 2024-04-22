@@ -5,7 +5,8 @@ This the log of my #50DaysOfCode challenge. Started on **March 3, 2024**.
 A more detailed log can be found [here](round2-log.md). 
 
 - Took a 2-day break between days 2 & 3 for health reasons. 
-- Took a 1-day break between days 25 & 26 for social reasons. 
+- Took a 1-day break between days 25 & 26 for social reasons.
+- Took a 7-day break between days 40 & 41 for personal reasons. 
 
 ## Log
 
@@ -162,3 +163,6 @@ A more detailed log can be found [here](round2-log.md).
 
 ### R2D40
 - freeCodeCamp: Started the **Personal Portfolio Webpage** Project 
+
+### R2D41 
+- freeCodeCamp: Continued the **Personal Portfolio Webpage** Project 
