@@ -575,3 +575,17 @@ Currently potentially having an issue with linking the stylesheet on GitHub but 
 **Thoughts**:
 
 Finally onto the final project for the freeCodeCamp certification! I've come so far - 40 days of (almost) daily coding is something to be proud of and it's really become part of my regular routine. I'm currently designing my portfolio in Canva as I've found it's easier to build to a design spec rather than trying to figure things as I go. I'm also often far more hapy with the finished product as a result. 
+
+---
+
+### Day 41: April 22, 2024
+
+**Today's Progress**: 
+
+- freeCodeCamp: Continued the **Personal Portfolio Webpage** Project 
+
+**Thoughts**:
+
+I had to take a week off from coding for personal reasons. I debated with starting over however completing the Web Development foundations within this round was one of my aims for these 50 days and if I keep going every day until 1st May, I'll have completed it and be able to focus on JavaScript for the next round. I feel like being a perfectionist and expecting things to go a particular way is how I've stopped for longer periods in the past.
+
+Today I completed the HTML structure of the Portfolio as I feel it's relatively simple and so a holistic approach will be better. It's more the CSS and getting the resources exactly how I want them that might be fiddly but this is an overally simple project. I'm excited to get stuck in again 💪
