@@ -166,3 +166,6 @@ A more detailed log can be found [here](round2-log.md).
 
 ### R2D41 
 - freeCodeCamp: Continued the **Personal Portfolio Webpage** Project 
+
+### R2D42
+- freeCodeCamp: Continued the **Personal Portfolio Webpage** Project 
