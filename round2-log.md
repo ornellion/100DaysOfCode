@@ -601,3 +601,15 @@ Today I completed the HTML structure of the Portfolio as I feel it's relatively 
 **Thoughts**:
 
 One day centering a div will be second nature and won't take quite as long 😅 Progress has been made! 9/11 of the tests have been passed and I'm about 30% done. The project section will be the most fiddly purely because it has the most resources and links but shouldn't take much longer. It's been a good way of getting back into coding regularly. 
+
+---
+
+### Day 42: April 23, 2024
+
+**Today's Progress**: 
+
+- freeCodeCamp: Continued the **Personal Portfolio Webpage** Project 
+
+**Thoughts**: 
+
+I always have this thought mid-project but designing is not for the faint of heart. I think I'm going to have to start stalking sites like Behance to start honing my creativity and design sense. Progress has been made, though I'm not entirely sure what I've done wrong with the navbar that it won't pass the test. But that is a problem for another day! 
